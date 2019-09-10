@@ -106,5 +106,5 @@ def plot_hists(df: pd.DataFrame):
 
 
 if __name__ == '__main__':
-    df = parse_logfile('/Users/dalei/go/src/github.com/CorentinJ/Real-Time-Voice-Cloning/avg_embedding_res.txt')
+    df = parse_logfile('/Users/dalei/go/src/github.com/CorentinJ/Real-Time-Voice-Cloning/avg_embedding_diff_speaker_res.txt')
     plot_hists(df)

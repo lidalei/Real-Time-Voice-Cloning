@@ -2,7 +2,6 @@ import argparse
 from pathlib import Path
 
 import typing
-import logging
 
 import numpy as np
 import scipy.spatial.distance
@@ -36,17 +35,16 @@ def run(args: argparse.Namespace):
     for d in speaker_utterances:
         utterances = speaker_utterances[d]
         enrollments = utterances[:_NUM_ENROLLMENTS]
-        logging.error(f'speaker: {d}, enrollments: {enrollments}')
+        print(f'speaker: {d}, enrollments: {enrollments}')
         audios = [_WAV_FODLER.joinpath(d, u) for u in enrollments]
         speaker_embeddings[d] = encoder.embed_speaker(audios, using_partials=True)
         no_use_speaker_embeddings[d] = encoder.embed_speaker(audios, using_partials=False)
 
-    # Same speaker attack
+    # Different speaker
     for d in speaker_utterances:
         utterances = speaker_utterances[d]
         # Repeat 5 times
         for utterance in np.random.choice(utterances, size=_NUM_VERIFICATIONS, replace=False):  # type: str
-            # generated audio
             txt = _TXT_FODLER.joinpath(d, utterance).with_suffix('.txt')
             text = txt.read_text()
 
@@ -57,7 +55,7 @@ def run(args: argparse.Namespace):
                 using_partials=True,
             )
             cosine_similarity = 1.0 - scipy.spatial.distance.cosine(speaker_embeddings[d], utterance_embedding)
-            logging.error(f'use: speaker: {d}, utterance: {utterance}, text: {text}, sim: {cosine_similarity}')
+            print(f'use: speaker: {d}, utterance: {utterance}, text: {text}, sim: {cosine_similarity}')
 
             # not using partials
             utterance_embedding = encoder.embed_utterance(
@@ -66,17 +64,11 @@ def run(args: argparse.Namespace):
                 using_partials=False,
             )
             cosine_similarity = 1.0 - scipy.spatial.distance.cosine(no_use_speaker_embeddings[d], utterance_embedding)
-            logging.error(f'no_use: speaker: {d}, utterance: {utterance}, text: {text}, sim: {cosine_similarity}')
+            print(f'no_use: speaker: {d}, utterance: {utterance}, text: {text}, sim: {cosine_similarity}')
 
 
 if __name__ == '__main__':
     parser = argparse.ArgumentParser()
-    parser.add_argument(
-        '--log-level',
-        default='info',
-        type=str,
-        help='log level, debug, info, warning, error',
-    )
     args, _ = parser.parse_known_args()
 
     run(args)
