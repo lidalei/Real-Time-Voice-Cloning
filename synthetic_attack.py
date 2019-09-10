@@ -2,7 +2,6 @@ import argparse
 from pathlib import Path
 
 import typing
-import uuid
 import logging
 
 import numpy as np
@@ -41,7 +40,7 @@ def run(args: argparse.Namespace):
     speaker_embeddings = dict()  # type: typing.Dict[str, np.ndarray]
     for d in speaker_utterances:
         utterances = speaker_utterances[d]
-        enrollments = utterances[:3]
+        enrollments = utterances[:10]
         logging.error(f'speaker: {d}, enrollments: {enrollments}')
         speaker_embeddings[d] = encoder.embed_speaker([_WAV_FODLER.joinpath(d, u) for u in enrollments])
 

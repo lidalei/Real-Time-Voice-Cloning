@@ -106,5 +106,5 @@ def plot_hists(df: pd.DataFrame):
 
 
 if __name__ == '__main__':
-    df = parse_logfile('/Users/dalei/go/src/github.com/CorentinJ/Real-Time-Voice-Cloning/synthetic_attack_res_err.txt')
+    df = parse_logfile('/Users/dalei/go/src/github.com/CorentinJ/Real-Time-Voice-Cloning/synthetic_attack_res_err_2.txt')
     plot_hists(df)
