@@ -195,12 +195,13 @@ class Model(object):
     def embed_speaker(
             self,
             wavs: typing.Iterable[typing.Union[str, Path, io.BytesIO]],
+            using_partials=True,
             model_name='default',
             **kwargs
     ) -> np.ndarray:
         embeds = []
         for wav in wavs:
-            embed = self.embed_utterance(wav, model_name=model_name)
+            embed = self.embed_utterance(wav, model_name=model_name, using_partials=using_partials)
             embed /= np.linalg.norm(embed)
             embeds.append(embed)
 

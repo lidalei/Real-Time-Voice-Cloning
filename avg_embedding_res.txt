@@ -1,0 +1,1212 @@
+/Users/dalei/.local/share/virtualenvs/Real-Time-Voice-Cloning-OHcpy5QF/lib/python3.7/site-packages/tensorflow/python/framework/dtypes.py:516: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint8 = np.dtype([("qint8", np.int8, 1)])
+/Users/dalei/.local/share/virtualenvs/Real-Time-Voice-Cloning-OHcpy5QF/lib/python3.7/site-packages/tensorflow/python/framework/dtypes.py:517: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint8 = np.dtype([("quint8", np.uint8, 1)])
+/Users/dalei/.local/share/virtualenvs/Real-Time-Voice-Cloning-OHcpy5QF/lib/python3.7/site-packages/tensorflow/python/framework/dtypes.py:518: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint16 = np.dtype([("qint16", np.int16, 1)])
+/Users/dalei/.local/share/virtualenvs/Real-Time-Voice-Cloning-OHcpy5QF/lib/python3.7/site-packages/tensorflow/python/framework/dtypes.py:519: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint16 = np.dtype([("quint16", np.uint16, 1)])
+/Users/dalei/.local/share/virtualenvs/Real-Time-Voice-Cloning-OHcpy5QF/lib/python3.7/site-packages/tensorflow/python/framework/dtypes.py:520: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint32 = np.dtype([("qint32", np.int32, 1)])
+/Users/dalei/.local/share/virtualenvs/Real-Time-Voice-Cloning-OHcpy5QF/lib/python3.7/site-packages/tensorflow/python/framework/dtypes.py:525: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  np_resource = np.dtype([("resource", np.ubyte, 1)])
+/Users/dalei/.local/share/virtualenvs/Real-Time-Voice-Cloning-OHcpy5QF/lib/python3.7/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:541: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint8 = np.dtype([("qint8", np.int8, 1)])
+/Users/dalei/.local/share/virtualenvs/Real-Time-Voice-Cloning-OHcpy5QF/lib/python3.7/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:542: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint8 = np.dtype([("quint8", np.uint8, 1)])
+/Users/dalei/.local/share/virtualenvs/Real-Time-Voice-Cloning-OHcpy5QF/lib/python3.7/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:543: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint16 = np.dtype([("qint16", np.int16, 1)])
+/Users/dalei/.local/share/virtualenvs/Real-Time-Voice-Cloning-OHcpy5QF/lib/python3.7/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:544: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_quint16 = np.dtype([("quint16", np.uint16, 1)])
+/Users/dalei/.local/share/virtualenvs/Real-Time-Voice-Cloning-OHcpy5QF/lib/python3.7/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:545: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  _np_qint32 = np.dtype([("qint32", np.int32, 1)])
+/Users/dalei/.local/share/virtualenvs/Real-Time-Voice-Cloning-OHcpy5QF/lib/python3.7/site-packages/tensorboard/compat/tensorflow_stub/dtypes.py:550: FutureWarning: Passing (type, 1) or '1type' as a synonym of type is deprecated; in a future version of numpy, it will be understood as (type, (1,)) / '(1,)type'.
+  np_resource = np.dtype([("resource", np.ubyte, 1)])
+speaker: p304, enrollments: ['p304_232.wav', 'p304_226.wav', 'p304_018.wav']
+speaker: p303, enrollments: ['p303_058.wav', 'p303_070.wav', 'p303_064.wav']
+speaker: p335, enrollments: ['p335_066.wav', 'p335_072.wav', 'p335_099.wav']
+speaker: p361, enrollments: ['p361_104.wav', 'p361_110.wav', 'p361_138.wav']
+speaker: p333, enrollments: ['p333_037.wav', 'p333_023.wav', 'p333_235.wav']
+speaker: p334, enrollments: ['p334_275.wav', 'p334_261.wav', 'p334_249.wav']
+speaker: p302, enrollments: ['p302_263.wav', 'p302_277.wav', 'p302_288.wav']
+speaker: p305, enrollments: ['p305_009.wav', 'p305_021.wav', 'p305_035.wav']
+speaker: p351, enrollments: ['p351_143.wav', 'p351_157.wav', 'p351_180.wav']
+speaker: p360, enrollments: ['p360_317.wav', 'p360_303.wav', 'p360_115.wav']
+speaker: p277, enrollments: ['p277_268.wav', 'p277_254.wav', 'p277_240.wav']
+speaker: p283, enrollments: ['p283_269.wav', 'p283_255.wav', 'p283_241.wav']
+speaker: p248, enrollments: ['p248_137.wav', 'p248_123.wav', 'p248_335.wav']
+speaker: p284, enrollments: ['p284_017.wav', 'p284_003.wav', 'p284_229.wav']
+speaker: p270, enrollments: ['p270_016.wav', 'p270_002.wav', 'p270_228.wav']
+speaker: p246, enrollments: ['p246_014.wav', 'p246_028.wav', 'p246_202.wav']
+speaker: p279, enrollments: ['p279_388.wav', 'p279_363.wav', 'p279_405.wav']
+speaker: p241, enrollments: ['p241_242.wav', 'p241_256.wav', 'p241_281.wav']
+speaker: p225, enrollments: ['p225_159.wav', 'p225_165.wav', 'p225_171.wav']
+speaker: p240, enrollments: ['p240_051.wav', 'p240_045.wav', 'p240_079.wav']
+speaker: p247, enrollments: ['p247_213.wav', 'p247_207.wav', 'p247_011.wav']
+speaker: p278, enrollments: ['p278_158.wav', 'p278_170.wav', 'p278_164.wav']
+speaker: p271, enrollments: ['p271_239.wav', 'p271_205.wav', 'p271_211.wav']
+speaker: p285, enrollments: ['p285_238.wav', 'p285_204.wav', 'p285_210.wav']
+speaker: p282, enrollments: ['p282_046.wav', 'p282_052.wav', 'p282_085.wav']
+speaker: p276, enrollments: ['p276_047.wav', 'p276_053.wav', 'p276_084.wav']
+speaker: p249, enrollments: ['p249_324.wav', 'p249_330.wav', 'p249_318.wav']
+speaker: p254, enrollments: ['p254_307.wav', 'p254_313.wav', 'p254_105.wav']
+speaker: p298, enrollments: ['p298_227.wav', 'p298_233.wav', 'p298_019.wav']
+speaker: p253, enrollments: ['p253_186.wav', 'p253_192.wav', 'p253_145.wav']
+speaker: p265, enrollments: ['p265_190.wav', 'p265_184.wav', 'p265_153.wav']
+speaker: p262, enrollments: ['p262_339.wav', 'p262_311.wav', 'p262_305.wav']
+speaker: p236, enrollments: ['p236_298.wav', 'p236_273.wav', 'p236_267.wav']
+speaker: p231, enrollments: ['p231_019.wav', 'p231_031.wav', 'p231_025.wav']
+speaker: p238, enrollments: ['p238_378.wav', 'p238_344.wav', 'p238_422.wav']
+speaker: p263, enrollments: ['p263_102.wav', 'p263_116.wav', 'p263_328.wav']
+speaker: p297, enrollments: ['p297_103.wav', 'p297_117.wav', 'p297_329.wav']
+speaker: p264, enrollments: ['p264_383.wav', 'p264_397.wav', 'p264_368.wav']
+speaker: p299, enrollments: ['p299_008.wav', 'p299_034.wav', 'p299_020.wav']
+speaker: p252, enrollments: ['p252_395.wav', 'p252_381.wav', 'p252_356.wav']
+speaker: p255, enrollments: ['p255_114.wav', 'p255_100.wav', 'p255_128.wav']
+speaker: p239, enrollments: ['p239_157.wav', 'p239_143.wav', 'p239_194.wav']
+speaker: p230, enrollments: ['p230_222.wav', 'p230_236.wav', 'p230_008.wav']
+speaker: p237, enrollments: ['p237_048.wav', 'p237_060.wav', 'p237_074.wav']
+speaker: p345, enrollments: ['p345_229.wav', 'p345_215.wav', 'p345_201.wav']
+speaker: p374, enrollments: ['p374_082.wav', 'p374_096.wav', 'p374_041.wav']
+speaker: p318, enrollments: ['p318_002.wav', 'p318_016.wav', 'p318_228.wav']
+speaker: p316, enrollments: ['p316_109.wav', 'p316_135.wav', 'p316_121.wav']
+speaker: p329, enrollments: ['p329_256.wav', 'p329_242.wav', 'p329_295.wav']
+speaker: p311, enrollments: ['p311_388.wav', 'p311_377.wav', 'p311_411.wav']
+speaker: p343, enrollments: ['p343_287.wav', 'p343_293.wav', 'p343_278.wav']
+speaker: p310, enrollments: ['p310_158.wav', 'p310_164.wav', 'p310_170.wav']
+speaker: p317, enrollments: ['p317_326.wav', 'p317_332.wav', 'p317_118.wav']
+speaker: p326, enrollments: ['p326_199.wav', 'p326_172.wav', 'p326_166.wav']
+speaker: p362, enrollments: ['p362_004.wav', 'p362_010.wav', 'p362_038.wav']
+speaker: p300, enrollments: ['p300_158.wav', 'p300_170.wav', 'p300_164.wav']
+speaker: p307, enrollments: ['p307_332.wav', 'p307_326.wav', 'p307_118.wav']
+speaker: p336, enrollments: ['p336_199.wav', 'p336_166.wav', 'p336_172.wav']
+speaker: p364, enrollments: ['p364_096.wav', 'p364_082.wav', 'p364_055.wav']
+speaker: p363, enrollments: ['p363_217.wav', 'p363_203.wav', 'p363_015.wav']
+speaker: p308, enrollments: ['p308_016.wav', 'p308_002.wav', 'p308_228.wav']
+speaker: p330, enrollments: ['p330_137.wav', 'p330_123.wav', 'p330_335.wav']
+speaker: p339, enrollments: ['p339_242.wav', 'p339_256.wav', 'p339_281.wav']
+speaker: p306, enrollments: ['p306_109.wav', 'p306_121.wav', 'p306_135.wav']
+speaker: p301, enrollments: ['p301_388.wav', 'p301_405.wav', 'p301_363.wav']
+speaker: p287, enrollments: ['p287_117.wav', 'p287_103.wav', 'p287_329.wav']
+speaker: p273, enrollments: ['p273_116.wav', 'p273_102.wav', 'p273_328.wav']
+speaker: p274, enrollments: ['p274_397.wav', 'p274_383.wav', 'p274_368.wav']
+speaker: p280, enrollments: ['p280_396.wav', 'p280_382.wav', 'p280_369.wav']
+speaker: p245, enrollments: ['p245_100.wav', 'p245_114.wav', 'p245_128.wav']
+speaker: p229, enrollments: ['p229_143.wav', 'p229_157.wav', 'p229_180.wav']
+speaker: p227, enrollments: ['p227_048.wav', 'p227_074.wav', 'p227_060.wav']
+speaker: p244, enrollments: ['p244_313.wav', 'p244_307.wav', 'p244_111.wav']
+speaker: p243, enrollments: ['p243_192.wav', 'p243_186.wav', 'p243_151.wav']
+speaker: p288, enrollments: ['p288_233.wav', 'p288_227.wav', 'p288_019.wav']
+speaker: p281, enrollments: ['p281_185.wav', 'p281_191.wav', 'p281_146.wav']
+speaker: p275, enrollments: ['p275_184.wav', 'p275_190.wav', 'p275_147.wav']
+speaker: p272, enrollments: ['p272_339.wav', 'p272_305.wav', 'p272_311.wav']
+speaker: p286, enrollments: ['p286_338.wav', 'p286_304.wav', 'p286_462.wav']
+speaker: p226, enrollments: ['p226_298.wav', 'p226_267.wav', 'p226_273.wav']
+speaker: p228, enrollments: ['p228_350.wav', 'p228_344.wav', 'p228_152.wav']
+speaker: p232, enrollments: ['p232_119.wav', 'p232_131.wav', 'p232_125.wav']
+speaker: p250, enrollments: ['p250_045.wav', 'p250_051.wav', 'p250_079.wav']
+speaker: p268, enrollments: ['p268_158.wav', 'p268_164.wav', 'p268_170.wav']
+speaker: p257, enrollments: ['p257_207.wav', 'p257_213.wav', 'p257_005.wav']
+speaker: p295, enrollments: ['p295_238.wav', 'p295_210.wav', 'p295_204.wav']
+speaker: p261, enrollments: ['p261_239.wav', 'p261_211.wav', 'p261_205.wav']
+speaker: p259, enrollments: ['p259_330.wav', 'p259_456.wav', 'p259_442.wav']
+speaker: p266, enrollments: ['p266_053.wav', 'p266_047.wav', 'p266_090.wav']
+speaker: p292, enrollments: ['p292_052.wav', 'p292_046.wav', 'p292_091.wav']
+speaker: p234, enrollments: ['p234_148.wav', 'p234_160.wav', 'p234_174.wav']
+speaker: p233, enrollments: ['p233_322.wav', 'p233_336.wav', 'p233_108.wav']
+speaker: p258, enrollments: ['p258_123.wav', 'p258_137.wav', 'p258_321.wav']
+speaker: p293, enrollments: ['p293_269.wav', 'p293_241.wav', 'p293_255.wav']
+speaker: p267, enrollments: ['p267_268.wav', 'p267_240.wav', 'p267_254.wav']
+speaker: p260, enrollments: ['p260_002.wav', 'p260_016.wav', 'p260_228.wav']
+speaker: p294, enrollments: ['p294_003.wav', 'p294_017.wav', 'p294_229.wav']
+speaker: p269, enrollments: ['p269_388.wav', 'p269_377.wav', 'p269_363.wav']
+speaker: p256, enrollments: ['p256_014.wav', 'p256_028.wav', 'p256_216.wav']
+speaker: p251, enrollments: ['p251_256.wav', 'p251_242.wav', 'p251_295.wav']
+speaker: p323, enrollments: ['p323_023.wav', 'p323_037.wav', 'p323_221.wav']
+speaker: p312, enrollments: ['p312_277.wav', 'p312_263.wav', 'p312_288.wav']
+speaker: p341, enrollments: ['p341_157.wav', 'p341_143.wav', 'p341_194.wav']
+speaker: p314, enrollments: ['p314_226.wav', 'p314_232.wav', 'p314_018.wav']
+speaker: p313, enrollments: ['p313_058.wav', 'p313_064.wav', 'p313_070.wav']
+speaker: p376, enrollments: ['p376_150.wav', 'p376_144.wav', 'p376_178.wav']
+speaker: p347, enrollments: ['p347_106.wav', 'p347_112.wav', 'p347_338.wav']
+speaker: p340, enrollments: ['p340_378.wav', 'p340_422.wav', 'p340_344.wav']
+use: speaker: p304, utterance: p304_315.wav, text: It's to do with context., sim: 0.8971024751663208
+no_use: speaker: p304, utterance: p304_315.wav, text: It's to do with context., sim: 0.8713489174842834
+use: speaker: p304, utterance: p304_067.wav, text: You probably have never seen them before., sim: 0.9228155016899109
+no_use: speaker: p304, utterance: p304_067.wav, text: You probably have never seen them before., sim: 0.8865904211997986
+use: speaker: p304, utterance: p304_197.wav, text: But who knows?, sim: 0.832003116607666
+no_use: speaker: p304, utterance: p304_197.wav, text: But who knows?, sim: 0.7838925123214722
+use: speaker: p304, utterance: p304_055.wav, text: I guess it is down to focus., sim: 0.8686202168464661
+no_use: speaker: p304, utterance: p304_055.wav, text: I guess it is down to focus., sim: 0.8690927028656006
+use: speaker: p304, utterance: p304_072.wav, text: That is completely against Islam., sim: 0.8368324637413025
+no_use: speaker: p304, utterance: p304_072.wav, text: That is completely against Islam., sim: 0.8238725662231445
+use: speaker: p303, utterance: p303_001.wav, text: Please call Stella., sim: 0.786648154258728
+no_use: speaker: p303, utterance: p303_001.wav, text: Please call Stella., sim: 0.7689308524131775
+use: speaker: p303, utterance: p303_105.wav, text: Referees are easy targets., sim: 0.8292081356048584
+no_use: speaker: p303, utterance: p303_105.wav, text: Referees are easy targets., sim: 0.8490228652954102
+use: speaker: p303, utterance: p303_294.wav, text: The Devil is the creator of weapons., sim: 0.8912196159362793
+no_use: speaker: p303, utterance: p303_294.wav, text: The Devil is the creator of weapons., sim: 0.866601288318634
+use: speaker: p303, utterance: p303_276.wav, text: Drugs and housebreaking are linked., sim: 0.8789716958999634
+no_use: speaker: p303, utterance: p303_276.wav, text: Drugs and housebreaking are linked., sim: 0.8810855150222778
+use: speaker: p303, utterance: p303_040.wav, text: I let go the telephone and ran., sim: 0.8973287343978882
+no_use: speaker: p303, utterance: p303_040.wav, text: I let go the telephone and ran., sim: 0.8575193881988525
+use: speaker: p335, utterance: p335_154.wav, text: Where is the anthrax?, sim: 0.8043147325515747
+no_use: speaker: p335, utterance: p335_154.wav, text: Where is the anthrax?, sim: 0.8106945753097534
+use: speaker: p335, utterance: p335_339.wav, text: Meanwhile, Rangers will continue to search for a striker., sim: 0.8119550943374634
+no_use: speaker: p335, utterance: p335_339.wav, text: Meanwhile, Rangers will continue to search for a striker., sim: 0.7361631393432617
+use: speaker: p335, utterance: p335_038.wav, text: Who does he think will win?, sim: 0.8169927597045898
+no_use: speaker: p335, utterance: p335_038.wav, text: Who does he think will win?, sim: 0.8175266981124878
+use: speaker: p335, utterance: p335_283.wav, text: I think it will make a huge difference., sim: 0.8436874151229858
+no_use: speaker: p335, utterance: p335_283.wav, text: I think it will make a huge difference., sim: 0.8407964706420898
+use: speaker: p335, utterance: p335_076.wav, text: He had a moustache., sim: 0.7322244644165039
+no_use: speaker: p335, utterance: p335_076.wav, text: He had a moustache., sim: 0.7158920168876648
+use: speaker: p361, utterance: p361_293.wav, text: Well, that's all right then., sim: 0.8024969100952148
+no_use: speaker: p361, utterance: p361_293.wav, text: Well, that's all right then., sim: 0.8107531666755676
+use: speaker: p361, utterance: p361_288.wav, text: I did not think it was very proper., sim: 0.8359962105751038
+no_use: speaker: p361, utterance: p361_288.wav, text: I did not think it was very proper., sim: 0.8535976409912109
+use: speaker: p361, utterance: p361_353.wav, text: That there would be discussions., sim: 0.8629494905471802
+no_use: speaker: p361, utterance: p361_353.wav, text: That there would be discussions., sim: 0.8654639720916748
+use: speaker: p361, utterance: p361_259.wav, text: Or is he?, sim: 0.6671269536018372
+no_use: speaker: p361, utterance: p361_259.wav, text: Or is he?, sim: 0.7099490165710449
+use: speaker: p361, utterance: p361_004.wav, text: We also need a small plastic snake and a big toy frog for the kids., sim: 0.8659288287162781
+no_use: speaker: p361, utterance: p361_004.wav, text: We also need a small plastic snake and a big toy frog for the kids., sim: 0.7448052167892456
+use: speaker: p333, utterance: p333_069.wav, text: This is a big, big win., sim: 0.8275587558746338
+no_use: speaker: p333, utterance: p333_069.wav, text: This is a big, big win., sim: 0.8010250926017761
+use: speaker: p333, utterance: p333_114.wav, text: The days of empty promises are over., sim: 0.9315897226333618
+no_use: speaker: p333, utterance: p333_114.wav, text: The days of empty promises are over., sim: 0.852205753326416
+use: speaker: p333, utterance: p333_397.wav, text: I get very excited by that., sim: 0.8424637317657471
+no_use: speaker: p333, utterance: p333_397.wav, text: I get very excited by that., sim: 0.8425245881080627
+use: speaker: p333, utterance: p333_164.wav, text: There are no charges., sim: 0.8824643492698669
+no_use: speaker: p333, utterance: p333_164.wav, text: There are no charges., sim: 0.8226240277290344
+use: speaker: p333, utterance: p333_042.wav, text: We've tried every other way., sim: 0.8310995697975159
+no_use: speaker: p333, utterance: p333_042.wav, text: We've tried every other way., sim: 0.7991544008255005
+use: speaker: p334, utterance: p334_362.wav, text: She was released from hospital yesterday., sim: 0.8302804231643677
+no_use: speaker: p334, utterance: p334_362.wav, text: She was released from hospital yesterday., sim: 0.8487791419029236
+use: speaker: p334, utterance: p334_002.wav, text: Ask her to bring these things with her from the store., sim: 0.8436667323112488
+no_use: speaker: p334, utterance: p334_002.wav, text: Ask her to bring these things with her from the store., sim: 0.8191259503364563
+use: speaker: p334, utterance: p334_307.wav, text: If they don't, they can expect their funding to be cut., sim: 0.8935554027557373
+no_use: speaker: p334, utterance: p334_307.wav, text: If they don't, they can expect their funding to be cut., sim: 0.8450801372528076
+use: speaker: p334, utterance: p334_254.wav, text: Check that he is dead., sim: 0.8726632595062256
+no_use: speaker: p334, utterance: p334_254.wav, text: Check that he is dead., sim: 0.8634652495384216
+use: speaker: p334, utterance: p334_043.wav, text: The offer of help is there for anyone., sim: 0.8316750526428223
+no_use: speaker: p334, utterance: p334_043.wav, text: The offer of help is there for anyone., sim: 0.8567603230476379
+use: speaker: p302, utterance: p302_078.wav, text: I cannot believe she has been admonished., sim: 0.8684687614440918
+no_use: speaker: p302, utterance: p302_078.wav, text: I cannot believe she has been admonished., sim: 0.8325731158256531
+use: speaker: p302, utterance: p302_023.wav, text: If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green yellow light when mixed form yellow., sim: 0.916827380657196
+no_use: speaker: p302, utterance: p302_023.wav, text: If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green yellow light when mixed form yellow., sim: 0.6933794021606445
+use: speaker: p302, utterance: p302_206.wav, text: He now describes himself as Scottish Labour., sim: 0.8489579558372498
+no_use: speaker: p302, utterance: p302_206.wav, text: He now describes himself as Scottish Labour., sim: 0.8586186766624451
+use: speaker: p302, utterance: p302_057.wav, text: I wouldn't want to miss that chance., sim: 0.8422284722328186
+no_use: speaker: p302, utterance: p302_057.wav, text: I wouldn't want to miss that chance., sim: 0.7976993918418884
+use: speaker: p302, utterance: p302_237.wav, text: I had a sense of deja vu., sim: 0.8226982355117798
+no_use: speaker: p302, utterance: p302_237.wav, text: I had a sense of deja vu., sim: 0.8017351031303406
+use: speaker: p305, utterance: p305_259.wav, text: The death rates are still as high., sim: 0.8099472522735596
+no_use: speaker: p305, utterance: p305_259.wav, text: The death rates are still as high., sim: 0.6664544939994812
+use: speaker: p305, utterance: p305_329.wav, text: I would have dropped out otherwise., sim: 0.8261687755584717
+no_use: speaker: p305, utterance: p305_329.wav, text: I would have dropped out otherwise., sim: 0.6947728395462036
+use: speaker: p305, utterance: p305_337.wav, text: That's what it's all about, isn't it?, sim: 0.911380410194397
+no_use: speaker: p305, utterance: p305_337.wav, text: That's what it's all about, isn't it?, sim: 0.786801278591156
+use: speaker: p305, utterance: p305_421.wav, text: Women reported more depression than men., sim: 0.8280758857727051
+no_use: speaker: p305, utterance: p305_421.wav, text: Women reported more depression than men., sim: 0.7673917412757874
+use: speaker: p305, utterance: p305_089.wav, text: If so, how does it intend to achieve this result?, sim: 0.9154892563819885
+no_use: speaker: p305, utterance: p305_089.wav, text: If so, how does it intend to achieve this result?, sim: 0.9119148254394531
+use: speaker: p351, utterance: p351_241.wav, text: They want to play in the World Cup., sim: 0.7975286841392517
+no_use: speaker: p351, utterance: p351_241.wav, text: They want to play in the World Cup., sim: 0.7910646200180054
+use: speaker: p351, utterance: p351_143.wav, text: It was the crowning point of my career., sim: 0.9417574405670166
+no_use: speaker: p351, utterance: p351_143.wav, text: It was the crowning point of my career., sim: 0.9364175796508789
+use: speaker: p351, utterance: p351_314.wav, text: There is good quality., sim: 0.703599214553833
+no_use: speaker: p351, utterance: p351_314.wav, text: There is good quality., sim: 0.694068431854248
+use: speaker: p351, utterance: p351_117.wav, text: I will be ridiculed., sim: 0.7380034327507019
+no_use: speaker: p351, utterance: p351_117.wav, text: I will be ridiculed., sim: 0.784229040145874
+use: speaker: p351, utterance: p351_178.wav, text: Clubs can only do so much., sim: 0.8897927403450012
+no_use: speaker: p351, utterance: p351_178.wav, text: Clubs can only do so much., sim: 0.8875146508216858
+use: speaker: p360, utterance: p360_045.wav, text: This will take up to nine months., sim: 0.8201789259910583
+no_use: speaker: p360, utterance: p360_045.wav, text: This will take up to nine months., sim: 0.818049430847168
+use: speaker: p360, utterance: p360_328.wav, text: He refused to name the survivors., sim: 0.8893191814422607
+no_use: speaker: p360, utterance: p360_328.wav, text: He refused to name the survivors., sim: 0.8958980441093445
+use: speaker: p360, utterance: p360_057.wav, text: It was very full anyway., sim: 0.8516631722450256
+no_use: speaker: p360, utterance: p360_057.wav, text: It was very full anyway., sim: 0.8801611065864563
+use: speaker: p360, utterance: p360_255.wav, text: Who would have thought it?, sim: 0.6710516810417175
+no_use: speaker: p360, utterance: p360_255.wav, text: Who would have thought it?, sim: 0.7700868248939514
+use: speaker: p360, utterance: p360_096.wav, text: Buildings are about people., sim: 0.8747120499610901
+no_use: speaker: p360, utterance: p360_096.wav, text: Buildings are about people., sim: 0.8774760961532593
+use: speaker: p277, utterance: p277_156.wav, text: The departure of Mr Johnston was reported by The Herald yesterday., sim: 0.889217734336853
+no_use: speaker: p277, utterance: p277_156.wav, text: The departure of Mr Johnston was reported by The Herald yesterday., sim: 0.8525686860084534
+use: speaker: p277, utterance: p277_158.wav, text: We are on a four-year mission., sim: 0.8628818988800049
+no_use: speaker: p277, utterance: p277_158.wav, text: We are on a four-year mission., sim: 0.8547253012657166
+use: speaker: p277, utterance: p277_314.wav, text: It's too horrible to think., sim: 0.8459991216659546
+no_use: speaker: p277, utterance: p277_314.wav, text: It's too horrible to think., sim: 0.8224653601646423
+use: speaker: p277, utterance: p277_252.wav, text: George W Bush, the US president, condemned the attacks., sim: 0.9005728363990784
+no_use: speaker: p277, utterance: p277_252.wav, text: George W Bush, the US president, condemned the attacks., sim: 0.8191314935684204
+use: speaker: p277, utterance: p277_055.wav, text: He is too weak to move., sim: 0.83018559217453
+no_use: speaker: p277, utterance: p277_055.wav, text: He is too weak to move., sim: 0.7945145964622498
+use: speaker: p283, utterance: p283_326.wav, text: What are they for ?, sim: 0.7351876497268677
+no_use: speaker: p283, utterance: p283_326.wav, text: What are they for ?, sim: 0.8037854433059692
+use: speaker: p283, utterance: p283_193.wav, text: There was no hint of scandal., sim: 0.8506184220314026
+no_use: speaker: p283, utterance: p283_193.wav, text: There was no hint of scandal., sim: 0.8348410725593567
+use: speaker: p283, utterance: p283_133.wav, text: Lady Thatcher was the only woman with full membership., sim: 0.8805122375488281
+no_use: speaker: p283, utterance: p283_133.wav, text: Lady Thatcher was the only woman with full membership., sim: 0.8562577366828918
+use: speaker: p283, utterance: p283_341.wav, text: This isn't a betrayal of public services, it's their renewal., sim: 0.9069109559059143
+no_use: speaker: p283, utterance: p283_341.wav, text: This isn't a betrayal of public services, it's their renewal., sim: 0.9223971962928772
+use: speaker: p283, utterance: p283_386.wav, text: I believe the gap is nearly there., sim: 0.8162521123886108
+no_use: speaker: p283, utterance: p283_386.wav, text: I believe the gap is nearly there., sim: 0.8257639408111572
+use: speaker: p248, utterance: p248_330.wav, text: Indeed, it was magical., sim: 0.8234184384346008
+no_use: speaker: p248, utterance: p248_330.wav, text: Indeed, it was magical., sim: 0.7511172294616699
+use: speaker: p248, utterance: p248_077.wav, text: It is a time bomb., sim: 0.8334591388702393
+no_use: speaker: p248, utterance: p248_077.wav, text: It is a time bomb., sim: 0.7665188312530518
+use: speaker: p248, utterance: p248_289.wav, text: The move was welcomed by the Roman Catholic Church in Scotland., sim: 0.8931980729103088
+no_use: speaker: p248, utterance: p248_289.wav, text: The move was welcomed by the Roman Catholic Church in Scotland., sim: 0.8744458556175232
+use: speaker: p248, utterance: p248_036.wav, text: It's a matter of balance., sim: 0.8360724449157715
+no_use: speaker: p248, utterance: p248_036.wav, text: It's a matter of balance., sim: 0.7405431270599365
+use: speaker: p248, utterance: p248_173.wav, text: You have got to get people from all sorts of different directions., sim: 0.9025847911834717
+no_use: speaker: p248, utterance: p248_173.wav, text: You have got to get people from all sorts of different directions., sim: 0.8790068626403809
+use: speaker: p284, utterance: p284_375.wav, text: They have not done so this season so far., sim: 0.8773999810218811
+no_use: speaker: p284, utterance: p284_375.wav, text: They have not done so this season so far., sim: 0.8787266612052917
+use: speaker: p284, utterance: p284_401.wav, text: He repeated his call for an inquiry into the police response., sim: 0.9246585369110107
+no_use: speaker: p284, utterance: p284_401.wav, text: He repeated his call for an inquiry into the police response., sim: 0.8897282481193542
+use: speaker: p284, utterance: p284_233.wav, text: The car was just there., sim: 0.8003838658332825
+no_use: speaker: p284, utterance: p284_233.wav, text: The car was just there., sim: 0.7607169151306152
+use: speaker: p284, utterance: p284_299.wav, text: I was the sheep., sim: 0.8331013321876526
+no_use: speaker: p284, utterance: p284_299.wav, text: I was the sheep., sim: 0.7795199155807495
+use: speaker: p284, utterance: p284_239.wav, text: The project has already secured the support of Sir Sean Connery., sim: 0.8862897157669067
+no_use: speaker: p284, utterance: p284_239.wav, text: The project has already secured the support of Sir Sean Connery., sim: 0.8727908730506897
+use: speaker: p270, utterance: p270_326.wav, text: Survival is not an option., sim: 0.8408032655715942
+no_use: speaker: p270, utterance: p270_326.wav, text: Survival is not an option., sim: 0.7487432956695557
+use: speaker: p270, utterance: p270_278.wav, text: He could see no other bidder., sim: 0.8813064098358154
+no_use: speaker: p270, utterance: p270_278.wav, text: He could see no other bidder., sim: 0.8146353960037231
+use: speaker: p270, utterance: p270_322.wav, text: Why change it ?, sim: 0.7870365381240845
+no_use: speaker: p270, utterance: p270_322.wav, text: Why change it ?, sim: 0.6986449360847473
+use: speaker: p270, utterance: p270_251.wav, text: I might get an injury very easily., sim: 0.8679580092430115
+no_use: speaker: p270, utterance: p270_251.wav, text: I might get an injury very easily., sim: 0.7952896356582642
+use: speaker: p270, utterance: p270_208.wav, text: Stephen has never considered the question of compensation., sim: 0.8980492949485779
+no_use: speaker: p270, utterance: p270_208.wav, text: Stephen has never considered the question of compensation., sim: 0.8596041202545166
+use: speaker: p246, utterance: p246_119.wav, text: It is still too early for any likely contenders to have emerged., sim: 0.8875231146812439
+no_use: speaker: p246, utterance: p246_119.wav, text: It is still too early for any likely contenders to have emerged., sim: 0.8952954411506653
+use: speaker: p246, utterance: p246_283.wav, text: It is not a process which can be completed overnight., sim: 0.831139087677002
+no_use: speaker: p246, utterance: p246_283.wav, text: It is not a process which can be completed overnight., sim: 0.8588611483573914
+use: speaker: p246, utterance: p246_226.wav, text: Jim Wallace, the justice minister, acknowledged that prisoner numbers were a concern., sim: 0.9171894192695618
+no_use: speaker: p246, utterance: p246_226.wav, text: Jim Wallace, the justice minister, acknowledged that prisoner numbers were a concern., sim: 0.8593076467514038
+use: speaker: p246, utterance: p246_053.wav, text: Her body was found about four miles from the car., sim: 0.8253291845321655
+no_use: speaker: p246, utterance: p246_053.wav, text: Her body was found about four miles from the car., sim: 0.8167926669120789
+use: speaker: p246, utterance: p246_019.wav, text: Since then physicists have found that it is not reflection, but refraction by raindrops which causes the rainbows. , sim: 0.9105208516120911
+no_use: speaker: p246, utterance: p246_019.wav, text: Since then physicists have found that it is not reflection, but refraction by raindrops which causes the rainbows. , sim: 0.7987582087516785
+use: speaker: p279, utterance: p279_188.wav, text: Does this matter?, sim: 0.715248703956604
+no_use: speaker: p279, utterance: p279_188.wav, text: Does this matter?, sim: 0.7449358701705933
+use: speaker: p279, utterance: p279_389.wav, text: It will take place in July., sim: 0.8514520525932312
+no_use: speaker: p279, utterance: p279_389.wav, text: It will take place in July., sim: 0.8217534422874451
+use: speaker: p279, utterance: p279_140.wav, text: This represents a tough game for us., sim: 0.8303113579750061
+no_use: speaker: p279, utterance: p279_140.wav, text: This represents a tough game for us., sim: 0.8171125054359436
+use: speaker: p279, utterance: p279_227.wav, text: It is a gamble., sim: 0.7134243845939636
+no_use: speaker: p279, utterance: p279_227.wav, text: It is a gamble., sim: 0.7082555294036865
+use: speaker: p279, utterance: p279_406.wav, text: Senior management in Scotland threw its weight behind the orchestra., sim: 0.8888905048370361
+no_use: speaker: p279, utterance: p279_406.wav, text: Senior management in Scotland threw its weight behind the orchestra., sim: 0.8701037764549255
+use: speaker: p241, utterance: p241_265.wav, text: It's very nice., sim: 0.8227913975715637
+no_use: speaker: p241, utterance: p241_265.wav, text: It's very nice., sim: 0.7936214804649353
+use: speaker: p241, utterance: p241_317.wav, text: It is out there., sim: 0.7822262644767761
+no_use: speaker: p241, utterance: p241_317.wav, text: It is out there., sim: 0.8118312954902649
+use: speaker: p241, utterance: p241_004.wav, text: We also need a small plastic snake and a big toy frog for the kids.  , sim: 0.9126795530319214
+no_use: speaker: p241, utterance: p241_004.wav, text: We also need a small plastic snake and a big toy frog for the kids.  , sim: 0.8531984090805054
+use: speaker: p241, utterance: p241_206.wav, text: We see the rapid reaction force as the way ahead., sim: 0.9251323342323303
+no_use: speaker: p241, utterance: p241_206.wav, text: We see the rapid reaction force as the way ahead., sim: 0.8754620552062988
+use: speaker: p241, utterance: p241_062.wav, text: Until recently, she worked as a recruitment consultant in London., sim: 0.8934890031814575
+no_use: speaker: p241, utterance: p241_062.wav, text: Until recently, she worked as a recruitment consultant in London., sim: 0.8150801658630371
+use: speaker: p225, utterance: p225_202.wav, text: The occasion was the New Labour conference in Brighton last year., sim: 0.935317873954773
+no_use: speaker: p225, utterance: p225_202.wav, text: The occasion was the New Labour conference in Brighton last year., sim: 0.9006466269493103
+use: speaker: p225, utterance: p225_133.wav, text: I think he's the favourite., sim: 0.8321811556816101
+no_use: speaker: p225, utterance: p225_133.wav, text: I think he's the favourite., sim: 0.8392688632011414
+use: speaker: p225, utterance: p225_009.wav, text: There is , according to legend, a boiling pot of gold at one end., sim: 0.8872135281562805
+no_use: speaker: p225, utterance: p225_009.wav, text: There is , according to legend, a boiling pot of gold at one end., sim: 0.8563333749771118
+use: speaker: p225, utterance: p225_073.wav, text: So, did she meet him ?, sim: 0.8320454359054565
+no_use: speaker: p225, utterance: p225_073.wav, text: So, did she meet him ?, sim: 0.8076977729797363
+use: speaker: p225, utterance: p225_049.wav, text: I have learned from him., sim: 0.685526967048645
+no_use: speaker: p225, utterance: p225_049.wav, text: I have learned from him., sim: 0.6969522833824158
+use: speaker: p240, utterance: p240_253.wav, text: It is a policy which has the full support of the minister., sim: 0.8653051853179932
+no_use: speaker: p240, utterance: p240_253.wav, text: It is a policy which has the full support of the minister., sim: 0.8179740905761719
+use: speaker: p240, utterance: p240_244.wav, text: Attendance at the project is a condition of a probation order., sim: 0.8578206300735474
+no_use: speaker: p240, utterance: p240_244.wav, text: Attendance at the project is a condition of a probation order., sim: 0.8100764155387878
+use: speaker: p240, utterance: p240_369.wav, text: Instead, he was informed to join the line of creditors., sim: 0.8951822519302368
+no_use: speaker: p240, utterance: p240_369.wav, text: Instead, he was informed to join the line of creditors., sim: 0.8973392844200134
+use: speaker: p240, utterance: p240_247.wav, text: A change in that position would require a decision by the council., sim: 0.8800589442253113
+no_use: speaker: p240, utterance: p240_247.wav, text: A change in that position would require a decision by the council., sim: 0.82126384973526
+use: speaker: p240, utterance: p240_204.wav, text: The album was widely expected to be a commercial disaster., sim: 0.877906322479248
+no_use: speaker: p240, utterance: p240_204.wav, text: The album was widely expected to be a commercial disaster., sim: 0.8201087117195129
+use: speaker: p247, utterance: p247_183.wav, text: One season, they might do well.), sim: 0.8607172966003418
+no_use: speaker: p247, utterance: p247_183.wav, text: One season, they might do well.), sim: 0.8721014261245728
+use: speaker: p247, utterance: p247_473.wav, text: We will now look into its historical background.), sim: 0.8992993235588074
+no_use: speaker: p247, utterance: p247_473.wav, text: We will now look into its historical background.), sim: 0.8977946043014526
+use: speaker: p247, utterance: p247_224.wav, text: It was finally agreed on Saturday.), sim: 0.9264005422592163
+no_use: speaker: p247, utterance: p247_224.wav, text: It was finally agreed on Saturday.), sim: 0.8983302712440491
+use: speaker: p247, utterance: p247_184.wav, text: It is not either national standards or local control.), sim: 0.9008434414863586
+no_use: speaker: p247, utterance: p247_184.wav, text: It is not either national standards or local control.), sim: 0.8644508719444275
+use: speaker: p247, utterance: p247_428.wav, text: A similar scheme is under way in central Scotland.), sim: 0.9042555093765259
+no_use: speaker: p247, utterance: p247_428.wav, text: A similar scheme is under way in central Scotland.), sim: 0.879321277141571
+use: speaker: p278, utterance: p278_162.wav, text: So was the first half., sim: 0.8041579723358154
+no_use: speaker: p278, utterance: p278_162.wav, text: So was the first half., sim: 0.7872397899627686
+use: speaker: p278, utterance: p278_378.wav, text: That is a break with tradition., sim: 0.8885253071784973
+no_use: speaker: p278, utterance: p278_378.wav, text: That is a break with tradition., sim: 0.8858397603034973
+use: speaker: p278, utterance: p278_255.wav, text: They made such decisions in London., sim: 0.8605507016181946
+no_use: speaker: p278, utterance: p278_255.wav, text: They made such decisions in London., sim: 0.8444465398788452
+use: speaker: p278, utterance: p278_175.wav, text: Was it the wife ?, sim: 0.7738739252090454
+no_use: speaker: p278, utterance: p278_175.wav, text: Was it the wife ?, sim: 0.8213948011398315
+use: speaker: p278, utterance: p278_394.wav, text: There isn't the seriousness of other businesses., sim: 0.8574230074882507
+no_use: speaker: p278, utterance: p278_394.wav, text: There isn't the seriousness of other businesses., sim: 0.8220680952072144
+use: speaker: p271, utterance: p271_127.wav, text: The proposals are to be debated on Monday by city councillors., sim: 0.9020446538925171
+no_use: speaker: p271, utterance: p271_127.wav, text: The proposals are to be debated on Monday by city councillors., sim: 0.8469407558441162
+use: speaker: p271, utterance: p271_359.wav, text: Six of the asylum seekers left the offices, it was reported., sim: 0.8807297945022583
+no_use: speaker: p271, utterance: p271_359.wav, text: Six of the asylum seekers left the offices, it was reported., sim: 0.7865898013114929
+use: speaker: p271, utterance: p271_314.wav, text: and that another interested body should have an option to buy., sim: 0.8910623788833618
+no_use: speaker: p271, utterance: p271_314.wav, text: and that another interested body should have an option to buy., sim: 0.7856875061988831
+use: speaker: p271, utterance: p271_096.wav, text: This one did., sim: 0.8314036726951599
+no_use: speaker: p271, utterance: p271_096.wav, text: This one did., sim: 0.807635486125946
+use: speaker: p271, utterance: p271_085.wav, text: Obviously, we were pretty close in a couple of games., sim: 0.9437255859375
+no_use: speaker: p271, utterance: p271_085.wav, text: Obviously, we were pretty close in a couple of games., sim: 0.917564868927002
+use: speaker: p285, utterance: p285_219.wav, text: At the top of the structure will remain the post of headteacher., sim: 0.8737890124320984
+no_use: speaker: p285, utterance: p285_219.wav, text: At the top of the structure will remain the post of headteacher., sim: 0.8667678833007812
+use: speaker: p285, utterance: p285_287.wav, text: No Briton has ever won., sim: 0.8571872115135193
+no_use: speaker: p285, utterance: p285_287.wav, text: No Briton has ever won., sim: 0.861323356628418
+use: speaker: p285, utterance: p285_302.wav, text: In performance, that quality can prove to be a challenge., sim: 0.9310553073883057
+no_use: speaker: p285, utterance: p285_302.wav, text: In performance, that quality can prove to be a challenge., sim: 0.8911315202713013
+use: speaker: p285, utterance: p285_168.wav, text: By then, however, both men were already in the US., sim: 0.8811944723129272
+no_use: speaker: p285, utterance: p285_168.wav, text: By then, however, both men were already in the US., sim: 0.8499593138694763
+use: speaker: p285, utterance: p285_127.wav, text: I am now unemployed., sim: 0.8202524185180664
+no_use: speaker: p285, utterance: p285_127.wav, text: I am now unemployed., sim: 0.816148042678833
+use: speaker: p282, utterance: p282_008.wav, text: These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. , sim: 0.9132404327392578
+no_use: speaker: p282, utterance: p282_008.wav, text: These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. , sim: 0.8211088180541992
+use: speaker: p282, utterance: p282_074.wav, text: It could take some time., sim: 0.8137839436531067
+no_use: speaker: p282, utterance: p282_074.wav, text: It could take some time., sim: 0.8304018974304199
+use: speaker: p282, utterance: p282_085.wav, text: What would be the timetable for withdrawal?, sim: 0.9477270245552063
+no_use: speaker: p282, utterance: p282_085.wav, text: What would be the timetable for withdrawal?, sim: 0.9464237689971924
+use: speaker: p282, utterance: p282_325.wav, text: The same things will happen with GM foods., sim: 0.8606877326965332
+no_use: speaker: p282, utterance: p282_325.wav, text: The same things will happen with GM foods., sim: 0.8420398235321045
+use: speaker: p282, utterance: p282_116.wav, text: It is so sad., sim: 0.7565240263938904
+no_use: speaker: p282, utterance: p282_116.wav, text: It is so sad., sim: 0.7131187319755554
+use: speaker: p276, utterance: p276_114.wav, text: It is sometimes like that., sim: 0.8809789419174194
+no_use: speaker: p276, utterance: p276_114.wav, text: It is sometimes like that., sim: 0.8393173217773438
+use: speaker: p276, utterance: p276_140.wav, text: It particularly increases under-age drinking, he claimed., sim: 0.8947272300720215
+no_use: speaker: p276, utterance: p276_140.wav, text: It particularly increases under-age drinking, he claimed., sim: 0.9021843075752258
+use: speaker: p276, utterance: p276_007.wav, text: The rainbow is a division of white light into many beautiful colors. , sim: 0.9233400225639343
+no_use: speaker: p276, utterance: p276_007.wav, text: The rainbow is a division of white light into many beautiful colors. , sim: 0.9094547033309937
+use: speaker: p276, utterance: p276_109.wav, text: Even the one she loved., sim: 0.8363133668899536
+no_use: speaker: p276, utterance: p276_109.wav, text: Even the one she loved., sim: 0.7677022814750671
+use: speaker: p276, utterance: p276_030.wav, text: They might have asked, for goodness sake., sim: 0.8863733410835266
+no_use: speaker: p276, utterance: p276_030.wav, text: They might have asked, for goodness sake., sim: 0.8972698450088501
+use: speaker: p249, utterance: p249_338.wav, text: The announcement was made after inquiries from a national newspaper., sim: 0.8883917331695557
+no_use: speaker: p249, utterance: p249_338.wav, text: The announcement was made after inquiries from a national newspaper., sim: 0.8701690435409546
+use: speaker: p249, utterance: p249_189.wav, text: We've got a lot of respect for the Lions., sim: 0.8939784169197083
+no_use: speaker: p249, utterance: p249_189.wav, text: We've got a lot of respect for the Lions., sim: 0.8800484538078308
+use: speaker: p249, utterance: p249_244.wav, text: We have a free vote on these things in our party., sim: 0.8993726372718811
+no_use: speaker: p249, utterance: p249_244.wav, text: We have a free vote on these things in our party., sim: 0.8606255054473877
+use: speaker: p249, utterance: p249_045.wav, text: Is a drug dealer?, sim: 0.7960458397865295
+no_use: speaker: p249, utterance: p249_045.wav, text: Is a drug dealer?, sim: 0.7841302752494812
+use: speaker: p249, utterance: p249_284.wav, text: What would be the timetable for withdrawal?, sim: 0.8816929459571838
+no_use: speaker: p249, utterance: p249_284.wav, text: What would be the timetable for withdrawal?, sim: 0.886961042881012
+use: speaker: p254, utterance: p254_111.wav, text: It was an adventure., sim: 0.8233224153518677
+no_use: speaker: p254, utterance: p254_111.wav, text: It was an adventure., sim: 0.8253566026687622
+use: speaker: p254, utterance: p254_321.wav, text: The boat was fantastic., sim: 0.8671257495880127
+no_use: speaker: p254, utterance: p254_321.wav, text: The boat was fantastic., sim: 0.8713691234588623
+use: speaker: p254, utterance: p254_383.wav, text: I'm just enjoying every match., sim: 0.874224066734314
+no_use: speaker: p254, utterance: p254_383.wav, text: I'm just enjoying every match., sim: 0.8554953336715698
+use: speaker: p254, utterance: p254_146.wav, text: He is severe., sim: 0.7529258131980896
+no_use: speaker: p254, utterance: p254_146.wav, text: He is severe., sim: 0.7693679332733154
+use: speaker: p254, utterance: p254_078.wav, text: They never gave up hope., sim: 0.9063237309455872
+no_use: speaker: p254, utterance: p254_078.wav, text: They never gave up hope., sim: 0.8972825407981873
+use: speaker: p298, utterance: p298_161.wav, text: It's my delight on a shiny night., sim: 0.8337847590446472
+no_use: speaker: p298, utterance: p298_161.wav, text: It's my delight on a shiny night., sim: 0.7845005989074707
+use: speaker: p298, utterance: p298_096.wav, text: The League of Nations was also his idea., sim: 0.858974039554596
+no_use: speaker: p298, utterance: p298_096.wav, text: The League of Nations was also his idea., sim: 0.8197553157806396
+use: speaker: p298, utterance: p298_301.wav, text: This can only help us go forward., sim: 0.765627920627594
+no_use: speaker: p298, utterance: p298_301.wav, text: This can only help us go forward., sim: 0.7069503664970398
+use: speaker: p298, utterance: p298_062.wav, text: Don't say you have not been warned., sim: 0.8587206602096558
+no_use: speaker: p298, utterance: p298_062.wav, text: Don't say you have not been warned., sim: 0.769749641418457
+use: speaker: p298, utterance: p298_131.wav, text: He loves the big occasions., sim: 0.8666637539863586
+no_use: speaker: p298, utterance: p298_131.wav, text: He loves the big occasions., sim: 0.755845844745636
+use: speaker: p253, utterance: p253_091.wav, text: Yesterday, he continued to keep a low profile., sim: 0.8653128147125244
+no_use: speaker: p253, utterance: p253_091.wav, text: Yesterday, he continued to keep a low profile., sim: 0.8078252077102661
+use: speaker: p253, utterance: p253_090.wav, text: Downing Street will make the second appointment in the Scotland Office today., sim: 0.8462189435958862
+no_use: speaker: p253, utterance: p253_090.wav, text: Downing Street will make the second appointment in the Scotland Office today., sim: 0.7390349507331848
+use: speaker: p253, utterance: p253_075.wav, text: We have to create a climate of trust, which is not easy., sim: 0.8601619601249695
+no_use: speaker: p253, utterance: p253_075.wav, text: We have to create a climate of trust, which is not easy., sim: 0.8165798783302307
+use: speaker: p253, utterance: p253_008.wav, text: These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. , sim: 0.9174817800521851
+no_use: speaker: p253, utterance: p253_008.wav, text: These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. , sim: 0.7045921683311462
+use: speaker: p253, utterance: p253_088.wav, text: They lived for their children., sim: 0.822757363319397
+no_use: speaker: p253, utterance: p253_088.wav, text: They lived for their children., sim: 0.8104032278060913
+use: speaker: p265, utterance: p265_202.wav, text: So far, the scheme has not been used in Scotland., sim: 0.9150456190109253
+no_use: speaker: p265, utterance: p265_202.wav, text: So far, the scheme has not been used in Scotland., sim: 0.8839582800865173
+use: speaker: p265, utterance: p265_338.wav, text: That would help., sim: 0.8556323647499084
+no_use: speaker: p265, utterance: p265_338.wav, text: That would help., sim: 0.7812734246253967
+use: speaker: p265, utterance: p265_119.wav, text: They took a risk., sim: 0.8213304281234741
+no_use: speaker: p265, utterance: p265_119.wav, text: They took a risk., sim: 0.785952627658844
+use: speaker: p265, utterance: p265_330.wav, text: Both of those promises have already been honoured., sim: 0.9105373620986938
+no_use: speaker: p265, utterance: p265_330.wav, text: Both of those promises have already been honoured., sim: 0.8927116394042969
+use: speaker: p265, utterance: p265_197.wav, text: I don't want to use it., sim: 0.8794856071472168
+no_use: speaker: p265, utterance: p265_197.wav, text: I don't want to use it., sim: 0.8113127946853638
+use: speaker: p262, utterance: p262_047.wav, text: It has been a horrible, horrible time., sim: 0.8325598239898682
+no_use: speaker: p262, utterance: p262_047.wav, text: It has been a horrible, horrible time., sim: 0.7645624279975891
+use: speaker: p262, utterance: p262_138.wav, text: It opens the door to the Champions League., sim: 0.9096775650978088
+no_use: speaker: p262, utterance: p262_138.wav, text: It opens the door to the Champions League., sim: 0.8904209733009338
+use: speaker: p262, utterance: p262_157.wav, text: Disruption will be kept to a minimum., sim: 0.8506156206130981
+no_use: speaker: p262, utterance: p262_157.wav, text: Disruption will be kept to a minimum., sim: 0.8385743498802185
+use: speaker: p262, utterance: p262_183.wav, text: They need to look after themselves., sim: 0.868028461933136
+no_use: speaker: p262, utterance: p262_183.wav, text: They need to look after themselves., sim: 0.8660394549369812
+use: speaker: p262, utterance: p262_292.wav, text: Mr Campbell received a phone call., sim: 0.8995004296302795
+no_use: speaker: p262, utterance: p262_292.wav, text: Mr Campbell received a phone call., sim: 0.897013247013092
+use: speaker: p236, utterance: p236_024.wav, text: This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue., sim: 0.9074237942695618
+no_use: speaker: p236, utterance: p236_024.wav, text: This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue., sim: 0.7304121851921082
+use: speaker: p236, utterance: p236_325.wav, text: The law will take its course., sim: 0.851272702217102
+no_use: speaker: p236, utterance: p236_325.wav, text: The law will take its course., sim: 0.8538378477096558
+use: speaker: p236, utterance: p236_192.wav, text: I have spoken to head office., sim: 0.8594605326652527
+no_use: speaker: p236, utterance: p236_192.wav, text: I have spoken to head office., sim: 0.8844738602638245
+use: speaker: p236, utterance: p236_461.wav, text: It will determine whether an offence has occurred., sim: 0.8233351111412048
+no_use: speaker: p236, utterance: p236_461.wav, text: It will determine whether an offence has occurred., sim: 0.8171302080154419
+use: speaker: p236, utterance: p236_210.wav, text: No details of the talks were given., sim: 0.838772177696228
+no_use: speaker: p236, utterance: p236_210.wav, text: No details of the talks were given., sim: 0.8333276510238647
+use: speaker: p231, utterance: p231_004.wav, text: We also need a small plastic snake and a big toy frog for the kids.  , sim: 0.8803797364234924
+no_use: speaker: p231, utterance: p231_004.wav, text: We also need a small plastic snake and a big toy frog for the kids.  , sim: 0.8315407037734985
+use: speaker: p231, utterance: p231_101.wav, text: That time is not now, however., sim: 0.8093965649604797
+no_use: speaker: p231, utterance: p231_101.wav, text: That time is not now, however., sim: 0.8067783117294312
+use: speaker: p231, utterance: p231_058.wav, text: We should be able to cope., sim: 0.8102228045463562
+no_use: speaker: p231, utterance: p231_058.wav, text: We should be able to cope., sim: 0.7998650074005127
+use: speaker: p231, utterance: p231_373.wav, text: They were to blame for the first two goals., sim: 0.829401969909668
+no_use: speaker: p231, utterance: p231_373.wav, text: They were to blame for the first two goals., sim: 0.8136593699455261
+use: speaker: p231, utterance: p231_300.wav, text: But it is up again., sim: 0.8205360174179077
+no_use: speaker: p231, utterance: p231_300.wav, text: But it is up again., sim: 0.7945482730865479
+use: speaker: p238, utterance: p238_096.wav, text: He was at home with his pals., sim: 0.851227343082428
+no_use: speaker: p238, utterance: p238_096.wav, text: He was at home with his pals., sim: 0.8485292792320251
+use: speaker: p238, utterance: p238_120.wav, text: Are they free ?, sim: 0.7119925022125244
+no_use: speaker: p238, utterance: p238_120.wav, text: Are they free ?, sim: 0.7469692826271057
+use: speaker: p238, utterance: p238_268.wav, text: The Internet is no substitute for customer service., sim: 0.912105143070221
+no_use: speaker: p238, utterance: p238_268.wav, text: The Internet is no substitute for customer service., sim: 0.8767388463020325
+use: speaker: p238, utterance: p238_355.wav, text: Anyway, the job will be part-time., sim: 0.8571802973747253
+no_use: speaker: p238, utterance: p238_355.wav, text: Anyway, the job will be part-time., sim: 0.8756952881813049
+use: speaker: p238, utterance: p238_038.wav, text: Alliance Leicester would give it a presence in southern England., sim: 0.8810328841209412
+no_use: speaker: p238, utterance: p238_038.wav, text: Alliance Leicester would give it a presence in southern England., sim: 0.8604675531387329
+use: speaker: p263, utterance: p263_001.wav, text: Please call Stella.  , sim: 0.7670606970787048
+no_use: speaker: p263, utterance: p263_001.wav, text: Please call Stella.  , sim: 0.769906222820282
+use: speaker: p263, utterance: p263_075.wav, text: Thankfully, Mr Campbell was able to help., sim: 0.9112587571144104
+no_use: speaker: p263, utterance: p263_075.wav, text: Thankfully, Mr Campbell was able to help., sim: 0.8867825269699097
+use: speaker: p263, utterance: p263_117.wav, text: He was jailed for a year., sim: 0.7652415633201599
+no_use: speaker: p263, utterance: p263_117.wav, text: He was jailed for a year., sim: 0.7724493741989136
+use: speaker: p263, utterance: p263_439.wav, text: It is not an inquiry to clear the athletes., sim: 0.8796890377998352
+no_use: speaker: p263, utterance: p263_439.wav, text: It is not an inquiry to clear the athletes., sim: 0.8727038502693176
+use: speaker: p263, utterance: p263_423.wav, text: Head injuries are the leading cause of death., sim: 0.8619385957717896
+no_use: speaker: p263, utterance: p263_423.wav, text: Head injuries are the leading cause of death., sim: 0.8624987602233887
+use: speaker: p297, utterance: p297_023.wav, text: If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow., sim: 0.9038962125778198
+no_use: speaker: p297, utterance: p297_023.wav, text: If the red of the second bow falls upon the green of the first, the result is to give a bow with an abnormally wide yellow band, since red and green light when mixed form yellow., sim: 0.6901982426643372
+use: speaker: p297, utterance: p297_134.wav, text: What did they think of her voice?, sim: 0.8514848351478577
+no_use: speaker: p297, utterance: p297_134.wav, text: What did they think of her voice?, sim: 0.8464968204498291
+use: speaker: p297, utterance: p297_215.wav, text: This club have been fair to me., sim: 0.8256606459617615
+no_use: speaker: p297, utterance: p297_215.wav, text: This club have been fair to me., sim: 0.8330998420715332
+use: speaker: p297, utterance: p297_366.wav, text: I think we'll just keep it., sim: 0.8031183481216431
+no_use: speaker: p297, utterance: p297_366.wav, text: I think we'll just keep it., sim: 0.7924452424049377
+use: speaker: p297, utterance: p297_128.wav, text: It was my shortest audition., sim: 0.8493326902389526
+no_use: speaker: p297, utterance: p297_128.wav, text: It was my shortest audition., sim: 0.8282409906387329
+use: speaker: p264, utterance: p264_342.wav, text: An opera company needs to have its orchestra.), sim: 0.8688890933990479
+no_use: speaker: p264, utterance: p264_342.wav, text: An opera company needs to have its orchestra.), sim: 0.8710446357727051
+use: speaker: p264, utterance: p264_165.wav, text: It's been my life.), sim: 0.8386825919151306
+no_use: speaker: p264, utterance: p264_165.wav, text: It's been my life.), sim: 0.8462364673614502
+use: speaker: p264, utterance: p264_299.wav, text: He had served his time.), sim: 0.8716612458229065
+no_use: speaker: p264, utterance: p264_299.wav, text: He had served his time.), sim: 0.8628827929496765
+use: speaker: p264, utterance: p264_197.wav, text: Is it worth it?), sim: 0.7917797565460205
+no_use: speaker: p264, utterance: p264_197.wav, text: Is it worth it?), sim: 0.7330072522163391
+use: speaker: p264, utterance: p264_283.wav, text: She now lives in London.), sim: 0.8806132674217224
+no_use: speaker: p264, utterance: p264_283.wav, text: She now lives in London.), sim: 0.8789587020874023
+use: speaker: p299, utterance: p299_167.wav, text: That's how it worked in Bosnia., sim: 0.8910387754440308
+no_use: speaker: p299, utterance: p299_167.wav, text: That's how it worked in Bosnia., sim: 0.7427477240562439
+use: speaker: p299, utterance: p299_273.wav, text: Are you in this movie?, sim: 0.7816548943519592
+no_use: speaker: p299, utterance: p299_273.wav, text: Are you in this movie?, sim: 0.6883154511451721
+use: speaker: p299, utterance: p299_336.wav, text: The package has been properly costed., sim: 0.8448342084884644
+no_use: speaker: p299, utterance: p299_336.wav, text: The package has been properly costed., sim: 0.7974278926849365
+use: speaker: p299, utterance: p299_253.wav, text: There are so many artists working in Glasgow., sim: 0.8804019093513489
+no_use: speaker: p299, utterance: p299_253.wav, text: There are so many artists working in Glasgow., sim: 0.8025931119918823
+use: speaker: p299, utterance: p299_246.wav, text: That might happen in Pakistan, but in Britain?, sim: 0.8936458826065063
+no_use: speaker: p299, utterance: p299_246.wav, text: That might happen in Pakistan, but in Britain?, sim: 0.8084800839424133
+use: speaker: p252, utterance: p252_288.wav, text: It was a bit like having children., sim: 0.8200920224189758
+no_use: speaker: p252, utterance: p252_288.wav, text: It was a bit like having children., sim: 0.8663450479507446
+use: speaker: p252, utterance: p252_131.wav, text: Britain's role was to stop it., sim: 0.8542678356170654
+no_use: speaker: p252, utterance: p252_131.wav, text: Britain's role was to stop it., sim: 0.8404016494750977
+use: speaker: p252, utterance: p252_355.wav, text: What form did that take ?, sim: 0.840115487575531
+no_use: speaker: p252, utterance: p252_355.wav, text: What form did that take ?, sim: 0.8087181448936462
+use: speaker: p252, utterance: p252_234.wav, text: We know the problems., sim: 0.8989659547805786
+no_use: speaker: p252, utterance: p252_234.wav, text: We know the problems., sim: 0.8711400032043457
+use: speaker: p252, utterance: p252_199.wav, text: And they were being paid ?, sim: 0.8742892742156982
+no_use: speaker: p252, utterance: p252_199.wav, text: And they were being paid ?, sim: 0.8466275334358215
+use: speaker: p255, utterance: p255_120.wav, text: An announcement on his replacement is expected within three weeks., sim: 0.902567446231842
+no_use: speaker: p255, utterance: p255_120.wav, text: An announcement on his replacement is expected within three weeks., sim: 0.8594169616699219
+use: speaker: p255, utterance: p255_189.wav, text: I have the first six months of next season to prove myself., sim: 0.9020232558250427
+no_use: speaker: p255, utterance: p255_189.wav, text: I have the first six months of next season to prove myself., sim: 0.8969051241874695
+use: speaker: p255, utterance: p255_244.wav, text: They had no children., sim: 0.868522584438324
+no_use: speaker: p255, utterance: p255_244.wav, text: They had no children., sim: 0.8398778438568115
+use: speaker: p255, utterance: p255_286.wav, text: The death toll included five children., sim: 0.8402302265167236
+no_use: speaker: p255, utterance: p255_286.wav, text: The death toll included five children., sim: 0.8448577523231506
+use: speaker: p255, utterance: p255_239.wav, text: It's the same as Glasgow., sim: 0.8445643782615662
+no_use: speaker: p255, utterance: p255_239.wav, text: It's the same as Glasgow., sim: 0.7960327863693237
+use: speaker: p239, utterance: p239_180.wav, text: Does that put pressure on us ?, sim: 0.7886986136436462
+no_use: speaker: p239, utterance: p239_180.wav, text: Does that put pressure on us ?, sim: 0.8042737245559692
+use: speaker: p239, utterance: p239_158.wav, text: Our relationship has been very good., sim: 0.8789774179458618
+no_use: speaker: p239, utterance: p239_158.wav, text: Our relationship has been very good., sim: 0.8332222700119019
+use: speaker: p239, utterance: p239_203.wav, text: It is all to do with the coaching., sim: 0.8407713174819946
+no_use: speaker: p239, utterance: p239_203.wav, text: It is all to do with the coaching., sim: 0.8387764692306519
+use: speaker: p239, utterance: p239_143.wav, text: He is an extraordinary writer on so many levels., sim: 0.9540431499481201
+no_use: speaker: p239, utterance: p239_143.wav, text: He is an extraordinary writer on so many levels., sim: 0.9387826323509216
+use: speaker: p239, utterance: p239_427.wav, text: This idea has been around for four years., sim: 0.8371536135673523
+no_use: speaker: p239, utterance: p239_427.wav, text: This idea has been around for four years., sim: 0.8669229745864868
+use: speaker: p230, utterance: p230_393.wav, text: Motion described it as a unique event., sim: 0.8937257528305054
+no_use: speaker: p230, utterance: p230_393.wav, text: Motion described it as a unique event., sim: 0.8375467658042908
+use: speaker: p230, utterance: p230_369.wav, text: They have broken the promise., sim: 0.8257474899291992
+no_use: speaker: p230, utterance: p230_369.wav, text: They have broken the promise., sim: 0.829662561416626
+use: speaker: p230, utterance: p230_338.wav, text: Public opinion was split on the proposal., sim: 0.8938572406768799
+no_use: speaker: p230, utterance: p230_338.wav, text: Public opinion was split on the proposal., sim: 0.8854500651359558
+use: speaker: p230, utterance: p230_129.wav, text: This is a successful outcome., sim: 0.8397939801216125
+no_use: speaker: p230, utterance: p230_129.wav, text: This is a successful outcome., sim: 0.8455895781517029
+use: speaker: p230, utterance: p230_350.wav, text: On Thursday, Mr Blair will address the Institute of Public Policy Research., sim: 0.8826408982276917
+no_use: speaker: p230, utterance: p230_350.wav, text: On Thursday, Mr Blair will address the Institute of Public Policy Research., sim: 0.8762984275817871
+use: speaker: p237, utterance: p237_309.wav, text: It is a road of death., sim: 0.8422490954399109
+no_use: speaker: p237, utterance: p237_309.wav, text: It is a road of death., sim: 0.8210580348968506
+use: speaker: p237, utterance: p237_017.wav, text: Others have tried to explain the phenomenon physically. , sim: 0.8490349054336548
+no_use: speaker: p237, utterance: p237_017.wav, text: Others have tried to explain the phenomenon physically. , sim: 0.8634950518608093
+use: speaker: p237, utterance: p237_229.wav, text: Lottery cash is rightly dependent on grassroots approval., sim: 0.9229598641395569
+no_use: speaker: p237, utterance: p237_229.wav, text: Lottery cash is rightly dependent on grassroots approval., sim: 0.8454986214637756
+use: speaker: p237, utterance: p237_185.wav, text: The event was held in the council's headquarters in Hamilton., sim: 0.9327631592750549
+no_use: speaker: p237, utterance: p237_185.wav, text: The event was held in the council's headquarters in Hamilton., sim: 0.8431645035743713
+use: speaker: p237, utterance: p237_004.wav, text: We also need a small plastic snake and a big toy frog for the kids.  , sim: 0.9199382662773132
+no_use: speaker: p237, utterance: p237_004.wav, text: We also need a small plastic snake and a big toy frog for the kids.  , sim: 0.8627628684043884
+use: speaker: p345, utterance: p345_233.wav, text: The game was up., sim: 0.8217293620109558
+no_use: speaker: p345, utterance: p345_233.wav, text: The game was up., sim: 0.7999191284179688
+use: speaker: p345, utterance: p345_151.wav, text: It was even worse than at home., sim: 0.8706210851669312
+no_use: speaker: p345, utterance: p345_151.wav, text: It was even worse than at home., sim: 0.8680645227432251
+use: speaker: p345, utterance: p345_236.wav, text: I didn't know where they were., sim: 0.7939700484275818
+no_use: speaker: p345, utterance: p345_236.wav, text: I didn't know where they were., sim: 0.7891865372657776
+use: speaker: p345, utterance: p345_097.wav, text: So far this season this approach is working., sim: 0.8658709526062012
+no_use: speaker: p345, utterance: p345_097.wav, text: So far this season this approach is working., sim: 0.8496530055999756
+use: speaker: p345, utterance: p345_120.wav, text: Neither of them was badly hurt., sim: 0.8829983472824097
+no_use: speaker: p345, utterance: p345_120.wav, text: Neither of them was badly hurt., sim: 0.8762615919113159
+use: speaker: p374, utterance: p374_423.wav, text: That time has passed., sim: 0.835071861743927
+no_use: speaker: p374, utterance: p374_423.wav, text: That time has passed., sim: 0.8188822269439697
+use: speaker: p374, utterance: p374_411.wav, text: It's very tragic and traumatic., sim: 0.902255117893219
+no_use: speaker: p374, utterance: p374_411.wav, text: It's very tragic and traumatic., sim: 0.8865982294082642
+use: speaker: p374, utterance: p374_344.wav, text: It was not being marketed properly., sim: 0.8589687943458557
+no_use: speaker: p374, utterance: p374_344.wav, text: It was not being marketed properly., sim: 0.8534308671951294
+use: speaker: p374, utterance: p374_395.wav, text: I just don't know what she was doing., sim: 0.8552555441856384
+no_use: speaker: p374, utterance: p374_395.wav, text: I just don't know what she was doing., sim: 0.8644387722015381
+use: speaker: p374, utterance: p374_037.wav, text: He didn't want me to leave the house., sim: 0.771777868270874
+no_use: speaker: p374, utterance: p374_037.wav, text: He didn't want me to leave the house., sim: 0.7757030129432678
+use: speaker: p318, utterance: p318_224.wav, text: There is no margin for error., sim: 0.9008828401565552
+no_use: speaker: p318, utterance: p318_224.wav, text: There is no margin for error., sim: 0.8830397725105286
+use: speaker: p318, utterance: p318_250.wav, text: The bottom line is that this must stop., sim: 0.8676303625106812
+no_use: speaker: p318, utterance: p318_250.wav, text: The bottom line is that this must stop., sim: 0.836628258228302
+use: speaker: p318, utterance: p318_363.wav, text: This is an internal matter., sim: 0.8865834474563599
+no_use: speaker: p318, utterance: p318_363.wav, text: This is an internal matter., sim: 0.8854531645774841
+use: speaker: p318, utterance: p318_036.wav, text: The waiting is over, well almost., sim: 0.8815109729766846
+no_use: speaker: p318, utterance: p318_036.wav, text: The waiting is over, well almost., sim: 0.88690584897995
+use: speaker: p318, utterance: p318_267.wav, text: So, it took me back to boarding school., sim: 0.8685683012008667
+no_use: speaker: p318, utterance: p318_267.wav, text: So, it took me back to boarding school., sim: 0.8588449358940125
+use: speaker: p316, utterance: p316_187.wav, text: It is not about the money, it is about everything., sim: 0.8885337114334106
+no_use: speaker: p316, utterance: p316_187.wav, text: It is not about the money, it is about everything., sim: 0.8290385603904724
+use: speaker: p316, utterance: p316_044.wav, text: The question is, Will it be enough?, sim: 0.8235922455787659
+no_use: speaker: p316, utterance: p316_044.wav, text: The question is, Will it be enough?, sim: 0.8271845579147339
+use: speaker: p316, utterance: p316_022.wav, text: The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows., sim: 0.8480885624885559
+no_use: speaker: p316, utterance: p316_022.wav, text: The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows., sim: 0.6786503195762634
+use: speaker: p316, utterance: p316_074.wav, text: We have a major concern about the enforcement action., sim: 0.9033884406089783
+no_use: speaker: p316, utterance: p316_074.wav, text: We have a major concern about the enforcement action., sim: 0.8065891861915588
+use: speaker: p316, utterance: p316_089.wav, text: The driver escaped injury., sim: 0.8677341938018799
+no_use: speaker: p316, utterance: p316_089.wav, text: The driver escaped injury., sim: 0.852201521396637
+use: speaker: p329, utterance: p329_103.wav, text: We make good weapons., sim: 0.8762280344963074
+no_use: speaker: p329, utterance: p329_103.wav, text: We make good weapons., sim: 0.8776141405105591
+use: speaker: p329, utterance: p329_177.wav, text: That is the first job of the director - leadership., sim: 0.8910418748855591
+no_use: speaker: p329, utterance: p329_177.wav, text: That is the first job of the director - leadership., sim: 0.8093867301940918
+use: speaker: p329, utterance: p329_162.wav, text: Sadly, the game will never see his like again., sim: 0.8675200343132019
+no_use: speaker: p329, utterance: p329_162.wav, text: Sadly, the game will never see his like again., sim: 0.827094316482544
+use: speaker: p329, utterance: p329_015.wav, text: The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain., sim: 0.9177108407020569
+no_use: speaker: p329, utterance: p329_015.wav, text: The Greeks used to imagine that it was a sign from the gods to foretell war or heavy rain., sim: 0.7730287909507751
+use: speaker: p329, utterance: p329_325.wav, text: Pressure of work is no excuse., sim: 0.8338574171066284
+no_use: speaker: p329, utterance: p329_325.wav, text: Pressure of work is no excuse., sim: 0.8381747603416443
+use: speaker: p311, utterance: p311_172.wav, text: He was at home with his pals., sim: 0.9129235148429871
+no_use: speaker: p311, utterance: p311_172.wav, text: He was at home with his pals., sim: 0.9131669998168945
+use: speaker: p311, utterance: p311_153.wav, text: I certainly think it's very short-sighted., sim: 0.8658915162086487
+no_use: speaker: p311, utterance: p311_153.wav, text: I certainly think it's very short-sighted., sim: 0.8741518259048462
+use: speaker: p311, utterance: p311_306.wav, text: That is the consistent approach of the Government., sim: 0.8808128833770752
+no_use: speaker: p311, utterance: p311_306.wav, text: That is the consistent approach of the Government., sim: 0.8821977972984314
+use: speaker: p311, utterance: p311_385.wav, text: Scotland has lost a great religious leader., sim: 0.8706030249595642
+no_use: speaker: p311, utterance: p311_385.wav, text: Scotland has lost a great religious leader., sim: 0.8533856272697449
+use: speaker: p311, utterance: p311_342.wav, text: This is a big club., sim: 0.8027716875076294
+no_use: speaker: p311, utterance: p311_342.wav, text: This is a big club., sim: 0.8100938200950623
+use: speaker: p343, utterance: p343_194.wav, text: Surrender is not an appealing or realistic prospect., sim: 0.8793365955352783
+no_use: speaker: p343, utterance: p343_194.wav, text: Surrender is not an appealing or realistic prospect., sim: 0.7930290699005127
+use: speaker: p343, utterance: p343_190.wav, text: I wouldn't want to miss that chance., sim: 0.8800033330917358
+no_use: speaker: p343, utterance: p343_190.wav, text: I wouldn't want to miss that chance., sim: 0.8620560169219971
+use: speaker: p343, utterance: p343_060.wav, text: The decision is purely down to the clinic., sim: 0.8588461875915527
+no_use: speaker: p343, utterance: p343_060.wav, text: The decision is purely down to the clinic., sim: 0.8323350548744202
+use: speaker: p343, utterance: p343_089.wav, text: We did discuss the Lockerbie issue., sim: 0.8898330330848694
+no_use: speaker: p343, utterance: p343_089.wav, text: We did discuss the Lockerbie issue., sim: 0.8489565849304199
+use: speaker: p343, utterance: p343_122.wav, text: Why is that?, sim: 0.7838874459266663
+no_use: speaker: p343, utterance: p343_122.wav, text: Why is that?, sim: 0.8333693146705627
+use: speaker: p310, utterance: p310_290.wav, text: He was at home with his pals., sim: 0.8467220664024353
+no_use: speaker: p310, utterance: p310_290.wav, text: He was at home with his pals., sim: 0.7920162081718445
+use: speaker: p310, utterance: p310_178.wav, text: We have the location, which is assured., sim: 0.8788424134254456
+no_use: speaker: p310, utterance: p310_178.wav, text: We have the location, which is assured., sim: 0.8890284299850464
+use: speaker: p310, utterance: p310_061.wav, text: There are just two tournaments remaining., sim: 0.861351490020752
+no_use: speaker: p310, utterance: p310_061.wav, text: There are just two tournaments remaining., sim: 0.8923206925392151
+use: speaker: p310, utterance: p310_180.wav, text: What if the confession is, after all, a fake?, sim: 0.8603581786155701
+no_use: speaker: p310, utterance: p310_180.wav, text: What if the confession is, after all, a fake?, sim: 0.8506872653961182
+use: speaker: p310, utterance: p310_044.wav, text: Normally, they have been a pack of lies., sim: 0.8725181221961975
+no_use: speaker: p310, utterance: p310_044.wav, text: Normally, they have been a pack of lies., sim: 0.8487616777420044
+use: speaker: p317, utterance: p317_124.wav, text: There was no confusion over the second., sim: 0.9103863835334778
+no_use: speaker: p317, utterance: p317_124.wav, text: There was no confusion over the second., sim: 0.914779007434845
+use: speaker: p317, utterance: p317_329.wav, text: I feel it is very irrational., sim: 0.919124186038971
+no_use: speaker: p317, utterance: p317_329.wav, text: I feel it is very irrational., sim: 0.9148008823394775
+use: speaker: p317, utterance: p317_049.wav, text: There is no mandate for a regime change., sim: 0.9065940976142883
+no_use: speaker: p317, utterance: p317_049.wav, text: There is no mandate for a regime change., sim: 0.914743185043335
+use: speaker: p317, utterance: p317_081.wav, text: I'm so proud of my team., sim: 0.9140044450759888
+no_use: speaker: p317, utterance: p317_081.wav, text: I'm so proud of my team., sim: 0.8886911869049072
+use: speaker: p317, utterance: p317_338.wav, text: The sleeper was six hours late., sim: 0.8528525829315186
+no_use: speaker: p317, utterance: p317_338.wav, text: The sleeper was six hours late., sim: 0.8685821890830994
+use: speaker: p326, utterance: p326_026.wav, text: The message was clear., sim: 0.8256776928901672
+no_use: speaker: p326, utterance: p326_026.wav, text: The message was clear., sim: 0.8046014308929443
+use: speaker: p326, utterance: p326_239.wav, text: An aide was instructed to get a copy., sim: 0.865901529788971
+no_use: speaker: p326, utterance: p326_239.wav, text: An aide was instructed to get a copy., sim: 0.8631113767623901
+use: speaker: p326, utterance: p326_358.wav, text: Labour is providing none of these., sim: 0.9261150360107422
+no_use: speaker: p326, utterance: p326_358.wav, text: Labour is providing none of these., sim: 0.9292395710945129
+use: speaker: p326, utterance: p326_191.wav, text: I feel really good., sim: 0.743451714515686
+no_use: speaker: p326, utterance: p326_191.wav, text: I feel really good., sim: 0.7659053802490234
+use: speaker: p326, utterance: p326_333.wav, text: Many innocent people will die., sim: 0.9052640795707703
+no_use: speaker: p326, utterance: p326_333.wav, text: Many innocent people will die., sim: 0.9116954207420349
+use: speaker: p362, utterance: p362_231.wav, text: Jacques Chirac, the French president, was surely in his sights., sim: 0.9303817749023438
+no_use: speaker: p362, utterance: p362_231.wav, text: Jacques Chirac, the French president, was surely in his sights., sim: 0.8804523944854736
+use: speaker: p362, utterance: p362_134.wav, text: The building was starting to come down., sim: 0.8473409414291382
+no_use: speaker: p362, utterance: p362_134.wav, text: The building was starting to come down., sim: 0.8624545335769653
+use: speaker: p362, utterance: p362_106.wav, text: So is that it, then?, sim: 0.8367221355438232
+no_use: speaker: p362, utterance: p362_106.wav, text: So is that it, then?, sim: 0.811417281627655
+use: speaker: p362, utterance: p362_109.wav, text: A, The media has been great., sim: 0.905438244342804
+no_use: speaker: p362, utterance: p362_109.wav, text: A, The media has been great., sim: 0.8759732246398926
+use: speaker: p362, utterance: p362_009.wav, text: There is , according to legend, a boiling pot of gold at one end., sim: 0.9441870450973511
+no_use: speaker: p362, utterance: p362_009.wav, text: There is , according to legend, a boiling pot of gold at one end., sim: 0.8965885043144226
+use: speaker: p300, utterance: p300_216.wav, text: Jimmy returned to Aberdeen, but she remained with George., sim: 0.8979158997535706
+no_use: speaker: p300, utterance: p300_216.wav, text: Jimmy returned to Aberdeen, but she remained with George., sim: 0.8368937373161316
+use: speaker: p300, utterance: p300_022.wav, text: The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows., sim: 0.892868161201477
+no_use: speaker: p300, utterance: p300_022.wav, text: The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows., sim: 0.8009737133979797
+use: speaker: p300, utterance: p300_161.wav, text: You should be there with six different characters., sim: 0.8754070997238159
+no_use: speaker: p300, utterance: p300_161.wav, text: You should be there with six different characters., sim: 0.8648816347122192
+use: speaker: p300, utterance: p300_114.wav, text: I didn't realise it had reached that stage., sim: 0.8745791912078857
+no_use: speaker: p300, utterance: p300_114.wav, text: I didn't realise it had reached that stage., sim: 0.8760991096496582
+use: speaker: p300, utterance: p300_154.wav, text: Does that put pressure on us?, sim: 0.8276812434196472
+no_use: speaker: p300, utterance: p300_154.wav, text: Does that put pressure on us?, sim: 0.8034936189651489
+use: speaker: p307, utterance: p307_016.wav, text: The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky., sim: 0.904947817325592
+no_use: speaker: p307, utterance: p307_016.wav, text: The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky., sim: 0.7309043407440186
+use: speaker: p307, utterance: p307_291.wav, text: The painting was started, but finishing it was quite another matter., sim: 0.9461445808410645
+no_use: speaker: p307, utterance: p307_291.wav, text: The painting was started, but finishing it was quite another matter., sim: 0.8999816179275513
+use: speaker: p307, utterance: p307_352.wav, text: Law abiding motorists have nothing to fear., sim: 0.9172753095626831
+no_use: speaker: p307, utterance: p307_352.wav, text: Law abiding motorists have nothing to fear., sim: 0.9009252190589905
+use: speaker: p307, utterance: p307_338.wav, text: It was frightening, intense, and primal theatre., sim: 0.9352927803993225
+no_use: speaker: p307, utterance: p307_338.wav, text: It was frightening, intense, and primal theatre., sim: 0.9093896150588989
+use: speaker: p307, utterance: p307_277.wav, text: Little Voice is on general release., sim: 0.9096279144287109
+no_use: speaker: p307, utterance: p307_277.wav, text: Little Voice is on general release., sim: 0.9041668176651001
+use: speaker: p336, utterance: p336_265.wav, text: There is no point in denying that., sim: 0.8235015273094177
+no_use: speaker: p336, utterance: p336_265.wav, text: There is no point in denying that., sim: 0.8403301239013672
+use: speaker: p336, utterance: p336_202.wav, text: I've been enjoying it, though., sim: 0.8022483587265015
+no_use: speaker: p336, utterance: p336_202.wav, text: I've been enjoying it, though., sim: 0.8015415668487549
+use: speaker: p336, utterance: p336_082.wav, text: Four minutes later, the show was over., sim: 0.831257700920105
+no_use: speaker: p336, utterance: p336_082.wav, text: Four minutes later, the show was over., sim: 0.8157691955566406
+use: speaker: p336, utterance: p336_027.wav, text: It is deeply worrying., sim: 0.8046966791152954
+no_use: speaker: p336, utterance: p336_027.wav, text: It is deeply worrying., sim: 0.7925477027893066
+use: speaker: p336, utterance: p336_083.wav, text: Would you have ever believed that was possible?, sim: 0.8595523238182068
+no_use: speaker: p336, utterance: p336_083.wav, text: Would you have ever believed that was possible?, sim: 0.8289541602134705
+use: speaker: p364, utterance: p364_128.wav, text: This time, it was not be., sim: 0.84796142578125
+no_use: speaker: p364, utterance: p364_128.wav, text: This time, it was not be., sim: 0.8534688353538513
+use: speaker: p364, utterance: p364_112.wav, text: The outcome is now in our own hands., sim: 0.860828697681427
+no_use: speaker: p364, utterance: p364_112.wav, text: The outcome is now in our own hands., sim: 0.8134188055992126
+use: speaker: p364, utterance: p364_053.wav, text: I can live with that., sim: 0.8234506249427795
+no_use: speaker: p364, utterance: p364_053.wav, text: I can live with that., sim: 0.8305000066757202
+use: speaker: p364, utterance: p364_235.wav, text: They were assured that it would., sim: 0.7641680836677551
+no_use: speaker: p364, utterance: p364_235.wav, text: They were assured that it would., sim: 0.7561774253845215
+use: speaker: p364, utterance: p364_020.wav, text: Many complicated ideas about the rainbow have been formed., sim: 0.9138811826705933
+no_use: speaker: p364, utterance: p364_020.wav, text: Many complicated ideas about the rainbow have been formed., sim: 0.7533947825431824
+use: speaker: p363, utterance: p363_260.wav, text: Whatever we do, we know we can do well., sim: 0.8703509569168091
+no_use: speaker: p363, utterance: p363_260.wav, text: Whatever we do, we know we can do well., sim: 0.842464804649353
+use: speaker: p363, utterance: p363_212.wav, text: We got on very well., sim: 0.8272342085838318
+no_use: speaker: p363, utterance: p363_212.wav, text: We got on very well., sim: 0.8043627738952637
+use: speaker: p363, utterance: p363_268.wav, text: The test case is still awaiting action., sim: 0.8706928491592407
+no_use: speaker: p363, utterance: p363_268.wav, text: The test case is still awaiting action., sim: 0.8738953471183777
+use: speaker: p363, utterance: p363_178.wav, text: That was a huge experience., sim: 0.8514053225517273
+no_use: speaker: p363, utterance: p363_178.wav, text: That was a huge experience., sim: 0.8487520813941956
+use: speaker: p363, utterance: p363_332.wav, text: We need to regroup., sim: 0.8379039168357849
+no_use: speaker: p363, utterance: p363_332.wav, text: We need to regroup., sim: 0.8191782832145691
+use: speaker: p308, utterance: p308_275.wav, text: That got me out of jail., sim: 0.7924188375473022
+no_use: speaker: p308, utterance: p308_275.wav, text: That got me out of jail., sim: 0.6874951124191284
+use: speaker: p308, utterance: p308_196.wav, text: To which the only answer is, don't hold your breath., sim: 0.8973802328109741
+no_use: speaker: p308, utterance: p308_196.wav, text: To which the only answer is, don't hold your breath., sim: 0.8791164755821228
+use: speaker: p308, utterance: p308_129.wav, text: The New Deal will constantly be improved., sim: 0.8388967514038086
+no_use: speaker: p308, utterance: p308_129.wav, text: The New Deal will constantly be improved., sim: 0.8487433791160583
+use: speaker: p308, utterance: p308_232.wav, text: This is her first senior Scottish selection., sim: 0.8157771229743958
+no_use: speaker: p308, utterance: p308_232.wav, text: This is her first senior Scottish selection., sim: 0.7323898673057556
+use: speaker: p308, utterance: p308_278.wav, text: The dictator of Iraq is not disarming., sim: 0.8849639296531677
+no_use: speaker: p308, utterance: p308_278.wav, text: The dictator of Iraq is not disarming., sim: 0.8871444463729858
+use: speaker: p330, utterance: p330_237.wav, text: After that date, the numbers should stabilise or fall., sim: 0.9104313254356384
+no_use: speaker: p330, utterance: p330_237.wav, text: After that date, the numbers should stabilise or fall., sim: 0.8767817616462708
+use: speaker: p330, utterance: p330_011.wav, text: When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow., sim: 0.8961239457130432
+no_use: speaker: p330, utterance: p330_011.wav, text: When a man looks for something beyond his reach, his friends say he is looking for the pot of gold at the end of the rainbow., sim: 0.7341284155845642
+use: speaker: p330, utterance: p330_416.wav, text: You have to work with what you've got., sim: 0.8122532367706299
+no_use: speaker: p330, utterance: p330_416.wav, text: You have to work with what you've got., sim: 0.8156958818435669
+use: speaker: p330, utterance: p330_412.wav, text: What is next?, sim: 0.8126288056373596
+no_use: speaker: p330, utterance: p330_412.wav, text: What is next?, sim: 0.8036853075027466
+use: speaker: p330, utterance: p330_243.wav, text: We have a lot of sympathy for applicants., sim: 0.8818473815917969
+no_use: speaker: p330, utterance: p330_243.wav, text: We have a lot of sympathy for applicants., sim: 0.8491888046264648
+use: speaker: p339, utterance: p339_154.wav, text: The hearing is expected to continue today., sim: 0.8815826773643494
+no_use: speaker: p339, utterance: p339_154.wav, text: The hearing is expected to continue today., sim: 0.8282766938209534
+use: speaker: p339, utterance: p339_406.wav, text: It's a matter of balance., sim: 0.8093824982643127
+no_use: speaker: p339, utterance: p339_406.wav, text: It's a matter of balance., sim: 0.786937952041626
+use: speaker: p339, utterance: p339_173.wav, text: I was very influenced by him., sim: 0.8102265000343323
+no_use: speaker: p339, utterance: p339_173.wav, text: I was very influenced by him., sim: 0.8110400438308716
+use: speaker: p339, utterance: p339_288.wav, text: That prevented any recurrence of the problem., sim: 0.8769517540931702
+no_use: speaker: p339, utterance: p339_288.wav, text: That prevented any recurrence of the problem., sim: 0.8126005530357361
+use: speaker: p339, utterance: p339_172.wav, text: It all depends on the wind., sim: 0.7873160243034363
+no_use: speaker: p339, utterance: p339_172.wav, text: It all depends on the wind., sim: 0.7695448398590088
+use: speaker: p306, utterance: p306_223.wav, text: She didn't tell us anything new., sim: 0.8877996802330017
+no_use: speaker: p306, utterance: p306_223.wav, text: She didn't tell us anything new., sim: 0.8880451917648315
+use: speaker: p306, utterance: p306_082.wav, text: It is truly fields of miracles., sim: 0.8904807567596436
+no_use: speaker: p306, utterance: p306_082.wav, text: It is truly fields of miracles., sim: 0.8803277015686035
+use: speaker: p306, utterance: p306_329.wav, text: Three bystanders were killed., sim: 0.9036092162132263
+no_use: speaker: p306, utterance: p306_329.wav, text: Three bystanders were killed., sim: 0.9116693735122681
+use: speaker: p306, utterance: p306_169.wav, text: Who do these people think they are?, sim: 0.8735851049423218
+no_use: speaker: p306, utterance: p306_169.wav, text: Who do these people think they are?, sim: 0.8425472378730774
+use: speaker: p306, utterance: p306_057.wav, text: England and Wales are likely to pull out., sim: 0.8771906495094299
+no_use: speaker: p306, utterance: p306_057.wav, text: England and Wales are likely to pull out., sim: 0.8742249011993408
+use: speaker: p301, utterance: p301_292.wav, text: He is married, with one daughter, and lives in Kent., sim: 0.9127845764160156
+no_use: speaker: p301, utterance: p301_292.wav, text: He is married, with one daughter, and lives in Kent., sim: 0.9082363843917847
+use: speaker: p301, utterance: p301_082.wav, text: However, within those figures, income from overseas visitors increased., sim: 0.9167507886886597
+no_use: speaker: p301, utterance: p301_082.wav, text: However, within those figures, income from overseas visitors increased., sim: 0.865366518497467
+use: speaker: p301, utterance: p301_212.wav, text: Iain Duncan Smith is wrong., sim: 0.828112781047821
+no_use: speaker: p301, utterance: p301_212.wav, text: Iain Duncan Smith is wrong., sim: 0.8176400661468506
+use: speaker: p301, utterance: p301_186.wav, text: The early evidence suggests he did not., sim: 0.8632642030715942
+no_use: speaker: p301, utterance: p301_186.wav, text: The early evidence suggests he did not., sim: 0.8575087785720825
+use: speaker: p301, utterance: p301_145.wav, text: It is patently true., sim: 0.811042070388794
+no_use: speaker: p301, utterance: p301_145.wav, text: It is patently true., sim: 0.7738744020462036
+use: speaker: p287, utterance: p287_230.wav, text: And thought we would get away with it., sim: 0.8899649977684021
+no_use: speaker: p287, utterance: p287_230.wav, text: And thought we would get away with it., sim: 0.8959779739379883
+use: speaker: p287, utterance: p287_410.wav, text: That is the ultimate revenge., sim: 0.8744803667068481
+no_use: speaker: p287, utterance: p287_410.wav, text: That is the ultimate revenge., sim: 0.8915136456489563
+use: speaker: p287, utterance: p287_326.wav, text: After some discussion they did., sim: 0.8678999543190002
+no_use: speaker: p287, utterance: p287_326.wav, text: After some discussion they did., sim: 0.8640904426574707
+use: speaker: p287, utterance: p287_314.wav, text: McNaughton was not so sure., sim: 0.8662822842597961
+no_use: speaker: p287, utterance: p287_314.wav, text: McNaughton was not so sure., sim: 0.8175596594810486
+use: speaker: p287, utterance: p287_013.wav, text: Some have accepted it as a miracle without physical explanation. , sim: 0.9024300575256348
+no_use: speaker: p287, utterance: p287_013.wav, text: Some have accepted it as a miracle without physical explanation. , sim: 0.8290467858314514
+use: speaker: p273, utterance: p273_148.wav, text: This action reflects a slump in bookings., sim: 0.9156261682510376
+no_use: speaker: p273, utterance: p273_148.wav, text: This action reflects a slump in bookings., sim: 0.8888996243476868
+use: speaker: p273, utterance: p273_395.wav, text: After the match, do you ?, sim: 0.7994359135627747
+no_use: speaker: p273, utterance: p273_395.wav, text: After the match, do you ?, sim: 0.7849098443984985
+use: speaker: p273, utterance: p273_082.wav, text: Potions said he would drive., sim: 0.8587639927864075
+no_use: speaker: p273, utterance: p273_082.wav, text: Potions said he would drive., sim: 0.8647235035896301
+use: speaker: p273, utterance: p273_387.wav, text: We are satisfied with this outcome., sim: 0.8647754788398743
+no_use: speaker: p273, utterance: p273_387.wav, text: We are satisfied with this outcome., sim: 0.8510803580284119
+use: speaker: p273, utterance: p273_112.wav, text: Strathclyde Police are expected to make an announcement next month., sim: 0.9177135825157166
+no_use: speaker: p273, utterance: p273_112.wav, text: Strathclyde Police are expected to make an announcement next month., sim: 0.8850046396255493
+use: speaker: p274, utterance: p274_351.wav, text: He declined to comment on possible disposals.), sim: 0.8986498117446899
+no_use: speaker: p274, utterance: p274_351.wav, text: He declined to comment on possible disposals.), sim: 0.8628460168838501
+use: speaker: p274, utterance: p274_290.wav, text: It has the potential to be another North Sea.), sim: 0.8895009756088257
+no_use: speaker: p274, utterance: p274_290.wav, text: It has the potential to be another North Sea.), sim: 0.9063711762428284
+use: speaker: p274, utterance: p274_026.wav, text: She is employed on short-term contracts.), sim: 0.8764578104019165
+no_use: speaker: p274, utterance: p274_026.wav, text: She is employed on short-term contracts.), sim: 0.8726404309272766
+use: speaker: p274, utterance: p274_180.wav, text: Do I think about them often ?), sim: 0.8457515239715576
+no_use: speaker: p274, utterance: p274_180.wav, text: Do I think about them often ?), sim: 0.8613021969795227
+use: speaker: p274, utterance: p274_022.wav, text: The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. ), sim: 0.8395490050315857
+no_use: speaker: p274, utterance: p274_022.wav, text: The actual primary rainbow observed is said to be the effect of super-imposition of a number of bows. ), sim: 0.7695064544677734
+use: speaker: p280, utterance: p280_146.wav, text: Look, George W Bush will come here in two months., sim: 0.8715916872024536
+no_use: speaker: p280, utterance: p280_146.wav, text: Look, George W Bush will come here in two months., sim: 0.8914473056793213
+use: speaker: p280, utterance: p280_227.wav, text: This takes no account of hotel and tourism losses., sim: 0.9033170938491821
+no_use: speaker: p280, utterance: p280_227.wav, text: This takes no account of hotel and tourism losses., sim: 0.9208003282546997
+use: speaker: p280, utterance: p280_042.wav, text: He does not even trust his own members., sim: 0.8408768177032471
+no_use: speaker: p280, utterance: p280_042.wav, text: He does not even trust his own members., sim: 0.8433929681777954
+use: speaker: p280, utterance: p280_229.wav, text: I want to see as much progress as possible., sim: 0.9077612161636353
+no_use: speaker: p280, utterance: p280_229.wav, text: I want to see as much progress as possible., sim: 0.8813039660453796
+use: speaker: p280, utterance: p280_324.wav, text: It is not either national standards or local control., sim: 0.8855873346328735
+no_use: speaker: p280, utterance: p280_324.wav, text: It is not either national standards or local control., sim: 0.8884163498878479
+use: speaker: p245, utterance: p245_349.wav, text: It is not like working for a living., sim: 0.8949363231658936
+no_use: speaker: p245, utterance: p245_349.wav, text: It is not like working for a living., sim: 0.8705408573150635
+use: speaker: p245, utterance: p245_138.wav, text: Mr Blair had done well., sim: 0.9001390337944031
+no_use: speaker: p245, utterance: p245_138.wav, text: Mr Blair had done well., sim: 0.8760491013526917
+use: speaker: p245, utterance: p245_231.wav, text: He also launched a new strategy for the agency., sim: 0.89021897315979
+no_use: speaker: p245, utterance: p245_231.wav, text: He also launched a new strategy for the agency., sim: 0.7710625529289246
+use: speaker: p245, utterance: p245_174.wav, text: However, he said the money had not been wasted., sim: 0.886451005935669
+no_use: speaker: p245, utterance: p245_174.wav, text: However, he said the money had not been wasted., sim: 0.8207327127456665
+use: speaker: p245, utterance: p245_110.wav, text: We work on the same level., sim: 0.8912146687507629
+no_use: speaker: p245, utterance: p245_110.wav, text: We work on the same level., sim: 0.8972020149230957
+use: speaker: p229, utterance: p229_124.wav, text: I joined a group., sim: 0.8175080418586731
+no_use: speaker: p229, utterance: p229_124.wav, text: I joined a group., sim: 0.7713008522987366
+use: speaker: p229, utterance: p229_333.wav, text: She did not attend the courtroom., sim: 0.8683966398239136
+no_use: speaker: p229, utterance: p229_333.wav, text: She did not attend the courtroom., sim: 0.840255856513977
+use: speaker: p229, utterance: p229_226.wav, text: However, Dundee deserved to win this game., sim: 0.8652904033660889
+no_use: speaker: p229, utterance: p229_226.wav, text: However, Dundee deserved to win this game., sim: 0.8978523015975952
+use: speaker: p229, utterance: p229_168.wav, text: Hopefully, we can learn from our mistakes., sim: 0.8230131268501282
+no_use: speaker: p229, utterance: p229_168.wav, text: Hopefully, we can learn from our mistakes., sim: 0.8481127619743347
+use: speaker: p229, utterance: p229_365.wav, text: We are looking for perfection., sim: 0.907595157623291
+no_use: speaker: p229, utterance: p229_365.wav, text: We are looking for perfection., sim: 0.8643913865089417
+use: speaker: p227, utterance: p227_082.wav, text: We have to offer value for money., sim: 0.8904861211776733
+no_use: speaker: p227, utterance: p227_082.wav, text: We have to offer value for money., sim: 0.8400012850761414
+use: speaker: p227, utterance: p227_046.wav, text: There was no safety net., sim: 0.8686912059783936
+no_use: speaker: p227, utterance: p227_046.wav, text: There was no safety net., sim: 0.8288010358810425
+use: speaker: p227, utterance: p227_233.wav, text: The fight is under way., sim: 0.8401797413825989
+no_use: speaker: p227, utterance: p227_233.wav, text: The fight is under way., sim: 0.7875053286552429
+use: speaker: p227, utterance: p227_246.wav, text: She died in middle age., sim: 0.8391210436820984
+no_use: speaker: p227, utterance: p227_246.wav, text: She died in middle age., sim: 0.8033716678619385
+use: speaker: p227, utterance: p227_029.wav, text: This is a central issue., sim: 0.7865561246871948
+no_use: speaker: p227, utterance: p227_029.wav, text: This is a central issue., sim: 0.7865204811096191
+use: speaker: p244, utterance: p244_116.wav, text: In the end we have to take a stand., sim: 0.8657340407371521
+no_use: speaker: p244, utterance: p244_116.wav, text: In the end we have to take a stand., sim: 0.8140612840652466
+use: speaker: p244, utterance: p244_182.wav, text: It was by the numbers., sim: 0.8390791416168213
+no_use: speaker: p244, utterance: p244_182.wav, text: It was by the numbers., sim: 0.8035961985588074
+use: speaker: p244, utterance: p244_176.wav, text: Charles Gordon, leader of Glasgow City Council declined to comment., sim: 0.9235206246376038
+no_use: speaker: p244, utterance: p244_176.wav, text: Charles Gordon, leader of Glasgow City Council declined to comment., sim: 0.8899039030075073
+use: speaker: p244, utterance: p244_400.wav, text: It is the last meeting of the season., sim: 0.8388241529464722
+no_use: speaker: p244, utterance: p244_400.wav, text: It is the last meeting of the season., sim: 0.8427892923355103
+use: speaker: p244, utterance: p244_209.wav, text: Many referees are on a hiding to nothing., sim: 0.8657225966453552
+no_use: speaker: p244, utterance: p244_209.wav, text: Many referees are on a hiding to nothing., sim: 0.8768684267997742
+use: speaker: p243, utterance: p243_141.wav, text: I am not under any new pressure., sim: 0.8875784873962402
+no_use: speaker: p243, utterance: p243_141.wav, text: I am not under any new pressure., sim: 0.8819843530654907
+use: speaker: p243, utterance: p243_392.wav, text: Five years ago its return was rejected., sim: 0.8922995328903198
+no_use: speaker: p243, utterance: p243_392.wav, text: Five years ago its return was rejected., sim: 0.8652855753898621
+use: speaker: p243, utterance: p243_245.wav, text: What are you not good at ?, sim: 0.7736133337020874
+no_use: speaker: p243, utterance: p243_245.wav, text: What are you not good at ?, sim: 0.7675977349281311
+use: speaker: p243, utterance: p243_293.wav, text: They first met during a Step in London., sim: 0.8721677660942078
+no_use: speaker: p243, utterance: p243_293.wav, text: They first met during a Step in London., sim: 0.867892324924469
+use: speaker: p243, utterance: p243_073.wav, text: I saw the story, but that amount wouldn't even pay my commission., sim: 0.9297814965248108
+no_use: speaker: p243, utterance: p243_073.wav, text: I saw the story, but that amount wouldn't even pay my commission., sim: 0.9098076224327087
+use: speaker: p288, utterance: p288_384.wav, text: It's a logical consequence of the Formula., sim: 0.8183954954147339
+no_use: speaker: p288, utterance: p288_384.wav, text: It's a logical consequence of the Formula., sim: 0.7814795970916748
+use: speaker: p288, utterance: p288_397.wav, text: Emotions were complex., sim: 0.8302279710769653
+no_use: speaker: p288, utterance: p288_397.wav, text: Emotions were complex., sim: 0.8259736895561218
+use: speaker: p288, utterance: p288_272.wav, text: A search and rescue mission was mounted within minutes., sim: 0.852800726890564
+no_use: speaker: p288, utterance: p288_272.wav, text: A search and rescue mission was mounted within minutes., sim: 0.8743557333946228
+use: speaker: p288, utterance: p288_386.wav, text: There is a solution, she believes., sim: 0.8090033531188965
+no_use: speaker: p288, utterance: p288_386.wav, text: There is a solution, she believes., sim: 0.7860872745513916
+use: speaker: p288, utterance: p288_008.wav, text: These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. , sim: 0.9035584926605225
+no_use: speaker: p288, utterance: p288_008.wav, text: These take the shape of a long round arch, with its path high above, and its two ends apparently beyond the horizon. , sim: 0.838492751121521
+use: speaker: p281, utterance: p281_003.wav, text: Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  , sim: 0.8942922353744507
+no_use: speaker: p281, utterance: p281_003.wav, text: Six spoons of fresh snow peas, five thick slabs of blue cheese, and maybe a snack for her brother Bob.  , sim: 0.731843888759613
+use: speaker: p281, utterance: p281_301.wav, text: The orchestra is quite good, but the hall is terrible., sim: 0.8504546284675598
+no_use: speaker: p281, utterance: p281_301.wav, text: The orchestra is quite good, but the hall is terrible., sim: 0.800585150718689
+use: speaker: p281, utterance: p281_249.wav, text: He has run a hell of a race., sim: 0.8253384232521057
+no_use: speaker: p281, utterance: p281_249.wav, text: He has run a hell of a race., sim: 0.8105312585830688
+use: speaker: p281, utterance: p281_453.wav, text: We're all paying for it., sim: 0.8325340747833252
+no_use: speaker: p281, utterance: p281_453.wav, text: We're all paying for it., sim: 0.8302851319313049
+use: speaker: p281, utterance: p281_088.wav, text: The cut is excellent news for the consumer., sim: 0.8920148015022278
+no_use: speaker: p281, utterance: p281_088.wav, text: The cut is excellent news for the consumer., sim: 0.8483818769454956
+use: speaker: p275, utterance: p275_040.wav, text: Sadly, it can't., sim: 0.8029400706291199
+no_use: speaker: p275, utterance: p275_040.wav, text: Sadly, it can't., sim: 0.8029157519340515
+use: speaker: p275, utterance: p275_064.wav, text: Charles Kennedy had an effective outing., sim: 0.8540738224983215
+no_use: speaker: p275, utterance: p275_064.wav, text: Charles Kennedy had an effective outing., sim: 0.8476263284683228
+use: speaker: p275, utterance: p275_018.wav, text: Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. , sim: 0.8887680172920227
+no_use: speaker: p275, utterance: p275_018.wav, text: Aristotle thought that the rainbow was caused by reflection of the sun's rays by the rain. , sim: 0.8442944884300232
+use: speaker: p275, utterance: p275_231.wav, text: Her condition was yesterday described as critical, but stable., sim: 0.8600365519523621
+no_use: speaker: p275, utterance: p275_231.wav, text: Her condition was yesterday described as critical, but stable., sim: 0.836012065410614
+use: speaker: p275, utterance: p275_024.wav, text: This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue., sim: 0.8727802038192749
+no_use: speaker: p275, utterance: p275_024.wav, text: This is a very common type of bow, one showing mainly red and yellow, with little or no green or blue., sim: 0.8053278923034668
+use: speaker: p272, utterance: p272_361.wav, text: They have not done so this season so far., sim: 0.8839688301086426
+no_use: speaker: p272, utterance: p272_361.wav, text: They have not done so this season so far., sim: 0.8437882661819458
+use: speaker: p272, utterance: p272_333.wav, text: A formal announcement is expected this morning at a news conference., sim: 0.8615661263465881
+no_use: speaker: p272, utterance: p272_333.wav, text: A formal announcement is expected this morning at a news conference., sim: 0.8586766719818115
+use: speaker: p272, utterance: p272_383.wav, text: Yet the data is compelling., sim: 0.8515239357948303
+no_use: speaker: p272, utterance: p272_383.wav, text: Yet the data is compelling., sim: 0.8651738166809082
+use: speaker: p272, utterance: p272_199.wav, text: We have an election in eight days., sim: 0.8478120565414429
+no_use: speaker: p272, utterance: p272_199.wav, text: We have an election in eight days., sim: 0.8498387336730957
+use: speaker: p272, utterance: p272_228.wav, text: On the ground, the West Bank was again the focus of violence., sim: 0.8814046382904053
+no_use: speaker: p272, utterance: p272_228.wav, text: On the ground, the West Bank was again the focus of violence., sim: 0.8636695146560669
+use: speaker: p286, utterance: p286_427.wav, text: No date has been fixed for his return., sim: 0.9011560678482056
+no_use: speaker: p286, utterance: p286_427.wav, text: No date has been fixed for his return., sim: 0.9032252430915833
+use: speaker: p286, utterance: p286_435.wav, text: THIS is a good day for Scottish farming., sim: 0.893948495388031
+no_use: speaker: p286, utterance: p286_435.wav, text: THIS is a good day for Scottish farming., sim: 0.8853359222412109
+use: speaker: p286, utterance: p286_429.wav, text: I never had a childhood., sim: 0.7854196429252625
+no_use: speaker: p286, utterance: p286_429.wav, text: I never had a childhood., sim: 0.7995029091835022
+use: speaker: p286, utterance: p286_233.wav, text: These things have not happened by accident., sim: 0.9017072916030884
+no_use: speaker: p286, utterance: p286_233.wav, text: These things have not happened by accident., sim: 0.9177135229110718
+use: speaker: p286, utterance: p286_116.wav, text: In the end we made too many errors., sim: 0.8292567133903503
+no_use: speaker: p286, utterance: p286_116.wav, text: In the end we made too many errors., sim: 0.8771124482154846
+use: speaker: p226, utterance: p226_358.wav, text: You must have a government and a good civil service., sim: 0.8880718350410461
+no_use: speaker: p226, utterance: p226_358.wav, text: You must have a government and a good civil service., sim: 0.8701964616775513
+use: speaker: p226, utterance: p226_094.wav, text: Every time I play I do not understand their reaction., sim: 0.8942466378211975
+no_use: speaker: p226, utterance: p226_094.wav, text: Every time I play I do not understand their reaction., sim: 0.8705837726593018
+use: speaker: p226, utterance: p226_098.wav, text: If you could find it., sim: 0.8399932384490967
+no_use: speaker: p226, utterance: p226_098.wav, text: If you could find it., sim: 0.7392924427986145
+use: speaker: p226, utterance: p226_120.wav, text: It would not do any harm to reinforce the message., sim: 0.8820485472679138
+no_use: speaker: p226, utterance: p226_120.wav, text: It would not do any harm to reinforce the message., sim: 0.8506421446800232
+use: speaker: p226, utterance: p226_347.wav, text: It was his conclusion that they were generally in good condition., sim: 0.897455632686615
+no_use: speaker: p226, utterance: p226_347.wav, text: It was his conclusion that they were generally in good condition., sim: 0.8606781959533691
+use: speaker: p228, utterance: p228_043.wav, text: It is urgent., sim: 0.74160236120224
+no_use: speaker: p228, utterance: p228_043.wav, text: It is urgent., sim: 0.6268649697303772
+use: speaker: p228, utterance: p228_177.wav, text: We've made a couple of albums., sim: 0.9123629927635193
+no_use: speaker: p228, utterance: p228_177.wav, text: We've made a couple of albums., sim: 0.8900216221809387
+use: speaker: p228, utterance: p228_344.wav, text: The man was obviously desperate to get away from the police., sim: 0.9577969908714294
+no_use: speaker: p228, utterance: p228_344.wav, text: The man was obviously desperate to get away from the police., sim: 0.9417464733123779
+use: speaker: p228, utterance: p228_108.wav, text: A year ago, she was just a junior Minister at the Treasury., sim: 0.9036074876785278
+no_use: speaker: p228, utterance: p228_108.wav, text: A year ago, she was just a junior Minister at the Treasury., sim: 0.9046499729156494
+use: speaker: p228, utterance: p228_057.wav, text: For the moment, that is the result of the X-ray., sim: 0.8476729989051819
+no_use: speaker: p228, utterance: p228_057.wav, text: For the moment, that is the result of the X-ray., sim: 0.8515362739562988
+use: speaker: p232, utterance: p232_188.wav, text: Family liaison officers are now working to support the family., sim: 0.8870648145675659
+no_use: speaker: p232, utterance: p232_188.wav, text: Family liaison officers are now working to support the family., sim: 0.8681913614273071
+use: speaker: p232, utterance: p232_179.wav, text: However, the figures were disputed by the Scottish Prison Service., sim: 0.8719564080238342
+no_use: speaker: p232, utterance: p232_179.wav, text: However, the figures were disputed by the Scottish Prison Service., sim: 0.8779680728912354
+use: speaker: p232, utterance: p232_336.wav, text: It is difficult to get into the team at the moment., sim: 0.8766480684280396
+no_use: speaker: p232, utterance: p232_336.wav, text: It is difficult to get into the team at the moment., sim: 0.8545669317245483
+use: speaker: p232, utterance: p232_049.wav, text: The whole of southern Africa is in the grip of Aids., sim: 0.8858000636100769
+no_use: speaker: p232, utterance: p232_049.wav, text: The whole of southern Africa is in the grip of Aids., sim: 0.8921862244606018
+use: speaker: p232, utterance: p232_252.wav, text: We did not compete with any other local farmer., sim: 0.8774067759513855
+no_use: speaker: p232, utterance: p232_252.wav, text: We did not compete with any other local farmer., sim: 0.8544698357582092
+use: speaker: p250, utterance: p250_209.wav, text: It was a moment of madness., sim: 0.8780409693717957
+no_use: speaker: p250, utterance: p250_209.wav, text: It was a moment of madness., sim: 0.8627639412879944
+use: speaker: p250, utterance: p250_027.wav, text: I am pretty careful with money., sim: 0.8844822645187378
+no_use: speaker: p250, utterance: p250_027.wav, text: I am pretty careful with money., sim: 0.870858907699585
+use: speaker: p250, utterance: p250_313.wav, text: There was a final revealing detail about the broadcast., sim: 0.8522924780845642
+no_use: speaker: p250, utterance: p250_313.wav, text: There was a final revealing detail about the broadcast., sim: 0.8422379493713379
+use: speaker: p250, utterance: p250_094.wav, text: The commission initiated the necessary changes in the financial regulation., sim: 0.8356823921203613
+no_use: speaker: p250, utterance: p250_094.wav, text: The commission initiated the necessary changes in the financial regulation., sim: 0.7602552175521851
+use: speaker: p250, utterance: p250_264.wav, text: He is a reporter for us., sim: 0.7764516472816467
+no_use: speaker: p250, utterance: p250_264.wav, text: He is a reporter for us., sim: 0.8062086701393127
+use: speaker: p268, utterance: p268_128.wav, text: Their season has been consigned to history., sim: 0.9012918472290039
+no_use: speaker: p268, utterance: p268_128.wav, text: Their season has been consigned to history., sim: 0.8835410475730896
+use: speaker: p268, utterance: p268_091.wav, text: THE Farmer wants a new campaign., sim: 0.8408071994781494
+no_use: speaker: p268, utterance: p268_091.wav, text: THE Farmer wants a new campaign., sim: 0.8590836524963379
+use: speaker: p268, utterance: p268_246.wav, text: This wasn't just a big crowd., sim: 0.7568675875663757
+no_use: speaker: p268, utterance: p268_246.wav, text: This wasn't just a big crowd., sim: 0.779373049736023
+use: speaker: p268, utterance: p268_016.wav, text: The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. , sim: 0.9178534746170044
+no_use: speaker: p268, utterance: p268_016.wav, text: The Norsemen considered the rainbow as a bridge over which the gods passed from earth to their home in the sky. , sim: 0.7724766135215759
+use: speaker: p268, utterance: p268_100.wav, text: What happened in that game ?, sim: 0.8563380241394043
+no_use: speaker: p268, utterance: p268_100.wav, text: What happened in that game ?, sim: 0.8605808615684509
+use: speaker: p257, utterance: p257_399.wav, text: We have just got to keep his feet on the ground., sim: 0.8871252536773682
+no_use: speaker: p257, utterance: p257_399.wav, text: We have just got to keep his feet on the ground., sim: 0.8736550211906433
+use: speaker: p257, utterance: p257_430.wav, text: The first minister is obviously concerned to hear about this incident., sim: 0.9209362864494324
+no_use: speaker: p257, utterance: p257_430.wav, text: The first minister is obviously concerned to hear about this incident., sim: 0.929000973701477
+use: speaker: p257, utterance: p257_331.wav, text: Alex Ferguson is the same., sim: 0.8374692797660828
+no_use: speaker: p257, utterance: p257_331.wav, text: Alex Ferguson is the same., sim: 0.8015632033348083
+use: speaker: p257, utterance: p257_260.wav, text: Frankly, we should all have such problems., sim: 0.8511330485343933
+no_use: speaker: p257, utterance: p257_260.wav, text: Frankly, we should all have such problems., sim: 0.8315656185150146
+use: speaker: p257, utterance: p257_007.wav, text: The rainbow is a division of white light into many beautiful colors. , sim: 0.8673911094665527
+no_use: speaker: p257, utterance: p257_007.wav, text: The rainbow is a division of white light into many beautiful colors. , sim: 0.8693338632583618
+use: speaker: p295, utterance: p295_324.wav, text: It will not work in our favour., sim: 0.763565719127655
+no_use: speaker: p295, utterance: p295_324.wav, text: It will not work in our favour., sim: 0.7877104878425598
+use: speaker: p295, utterance: p295_194.wav, text: Defeat is simply not an option., sim: 0.8780314922332764
+no_use: speaker: p295, utterance: p295_194.wav, text: Defeat is simply not an option., sim: 0.8971722722053528
+use: speaker: p295, utterance: p295_363.wav, text: You're not going to get hurt., sim: 0.8417008519172668
+no_use: speaker: p295, utterance: p295_363.wav, text: You're not going to get hurt., sim: 0.802668035030365
+use: speaker: p295, utterance: p295_291.wav, text: Tomorrow will be a different game entirely., sim: 0.8741674423217773
+no_use: speaker: p295, utterance: p295_291.wav, text: Tomorrow will be a different game entirely., sim: 0.8545989990234375
+use: speaker: p295, utterance: p295_399.wav, text: What has caused the demise of singing?, sim: 0.888084888458252
+no_use: speaker: p295, utterance: p295_399.wav, text: What has caused the demise of singing?, sim: 0.903186023235321
+use: speaker: p261, utterance: p261_408.wav, text: This big issue is whether it can be enforced., sim: 0.8133195042610168
+no_use: speaker: p261, utterance: p261_408.wav, text: This big issue is whether it can be enforced., sim: 0.8474645614624023
+use: speaker: p261, utterance: p261_078.wav, text: Both agreed on the success of the event., sim: 0.8796466588973999
+no_use: speaker: p261, utterance: p261_078.wav, text: Both agreed on the success of the event., sim: 0.8279033303260803
+use: speaker: p261, utterance: p261_207.wav, text: What are you not good at ?, sim: 0.810868501663208
+no_use: speaker: p261, utterance: p261_207.wav, text: What are you not good at ?, sim: 0.7877735495567322
+use: speaker: p261, utterance: p261_046.wav, text: It will concentrate on the Thames Valley., sim: 0.8469648361206055
+no_use: speaker: p261, utterance: p261_046.wav, text: It will concentrate on the Thames Valley., sim: 0.8069936633110046
+use: speaker: p261, utterance: p261_021.wav, text: The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. , sim: 0.8943224549293518
+no_use: speaker: p261, utterance: p261_021.wav, text: The difference in the rainbow depends considerably upon the size of the drops, and the width of the colored band increases as the size of the drops increases. , sim: 0.6973839998245239
+use: speaker: p259, utterance: p259_473.wav, text: I'm very passionate about my country.), sim: 0.8746583461761475
+no_use: speaker: p259, utterance: p259_473.wav, text: I'm very passionate about my country.), sim: 0.8948832750320435
+use: speaker: p259, utterance: p259_188.wav, text: He played it like a veteran.), sim: 0.906170666217804
+no_use: speaker: p259, utterance: p259_188.wav, text: He played it like a veteran.), sim: 0.8826684951782227
+use: speaker: p259, utterance: p259_144.wav, text: Was it the wife ?), sim: 0.7461544871330261
+no_use: speaker: p259, utterance: p259_144.wav, text: Was it the wife ?), sim: 0.7327911853790283
+use: speaker: p259, utterance: p259_108.wav, text: It is a good lifestyle.), sim: 0.864466667175293
+no_use: speaker: p259, utterance: p259_108.wav, text: It is a good lifestyle.), sim: 0.8152551054954529
+use: speaker: p259, utterance: p259_422.wav, text: I'm not going to get upset by two comedy promoters.), sim: 0.8857960104942322
+no_use: speaker: p259, utterance: p259_422.wav, text: I'm not going to get upset by two comedy promoters.), sim: 0.898445725440979
+use: speaker: p266, utterance: p266_385.wav, text: Since then, he has played no active part in the company., sim: 0.9114806652069092
+no_use: speaker: p266, utterance: p266_385.wav, text: Since then, he has played no active part in the company., sim: 0.8967040777206421
+use: speaker: p266, utterance: p266_242.wav, text: We will need to study the report before any decision is taken., sim: 0.8345473408699036
+no_use: speaker: p266, utterance: p266_242.wav, text: We will need to study the report before any decision is taken., sim: 0.7856149077415466
+use: speaker: p266, utterance: p266_330.wav, text: On Thursday, Mr Blair will address the Institute of Public Policy Research., sim: 0.8515214323997498
+no_use: speaker: p266, utterance: p266_330.wav, text: On Thursday, Mr Blair will address the Institute of Public Policy Research., sim: 0.7801313996315002
+use: speaker: p266, utterance: p266_408.wav, text: Relief was beyond belief., sim: 0.7801335453987122
+no_use: speaker: p266, utterance: p266_408.wav, text: Relief was beyond belief., sim: 0.7610565423965454
+use: speaker: p266, utterance: p266_136.wav, text: Is that it?, sim: 0.6920032501220703
+no_use: speaker: p266, utterance: p266_136.wav, text: Is that it?, sim: 0.7149288058280945
+use: speaker: p292, utterance: p292_256.wav, text: This is too much like Scotland., sim: 0.8617434501647949
+no_use: speaker: p292, utterance: p292_256.wav, text: This is too much like Scotland., sim: 0.8865000009536743
+use: speaker: p292, utterance: p292_330.wav, text: It does affect the staff and the prisoners., sim: 0.8605378270149231
+no_use: speaker: p292, utterance: p292_330.wav, text: It does affect the staff and the prisoners., sim: 0.8420557379722595
+use: speaker: p292, utterance: p292_371.wav, text: It's their duty to protect them., sim: 0.8350608944892883
+no_use: speaker: p292, utterance: p292_371.wav, text: It's their duty to protect them., sim: 0.8425137400627136
+use: speaker: p292, utterance: p292_032.wav, text: I don't expect to be here tomorrow., sim: 0.8632324934005737
+no_use: speaker: p292, utterance: p292_032.wav, text: I don't expect to be here tomorrow., sim: 0.8756945729255676
+use: speaker: p292, utterance: p292_034.wav, text: It was a deceit., sim: 0.7731922268867493
+no_use: speaker: p292, utterance: p292_034.wav, text: It was a deceit., sim: 0.7902364134788513
+use: speaker: p234, utterance: p234_101.wav, text: I had no intention of misleading anyone., sim: 0.8489173650741577
+no_use: speaker: p234, utterance: p234_101.wav, text: I had no intention of misleading anyone., sim: 0.8460957407951355
+use: speaker: p234, utterance: p234_280.wav, text: It depends on Labour, not on us., sim: 0.8307417631149292
+no_use: speaker: p234, utterance: p234_280.wav, text: It depends on Labour, not on us., sim: 0.7953720092773438
+use: speaker: p234, utterance: p234_017.wav, text: Others have tried to explain the phenomenon physically. , sim: 0.770576536655426
+no_use: speaker: p234, utterance: p234_017.wav, text: Others have tried to explain the phenomenon physically. , sim: 0.7994042634963989
+use: speaker: p234, utterance: p234_058.wav, text: For the meantime, though, the signs are good., sim: 0.8359089493751526
+no_use: speaker: p234, utterance: p234_058.wav, text: For the meantime, though, the signs are good., sim: 0.8334164023399353
+use: speaker: p234, utterance: p234_099.wav, text: That is the fact of the matter., sim: 0.8347273468971252
+no_use: speaker: p234, utterance: p234_099.wav, text: That is the fact of the matter., sim: 0.8315682411193848
+use: speaker: p233, utterance: p233_066.wav, text: He has not been dropped., sim: 0.8585682511329651
+no_use: speaker: p233, utterance: p233_066.wav, text: He has not been dropped., sim: 0.8358712792396545
+use: speaker: p233, utterance: p233_343.wav, text: This is a sector in overall deficit and urgent action is required., sim: 0.9441370368003845
+no_use: speaker: p233, utterance: p233_343.wav, text: This is a sector in overall deficit and urgent action is required., sim: 0.9121368527412415
+use: speaker: p233, utterance: p233_300.wav, text: We have to sort it out ourselves., sim: 0.8100523948669434
+no_use: speaker: p233, utterance: p233_300.wav, text: We have to sort it out ourselves., sim: 0.836545467376709
+use: speaker: p233, utterance: p233_336.wav, text: The announcement was made after inquiries from a national newspaper., sim: 0.9298542141914368
+no_use: speaker: p233, utterance: p233_336.wav, text: The announcement was made after inquiries from a national newspaper., sim: 0.9265159964561462
+use: speaker: p233, utterance: p233_130.wav, text: Next season for every manager is a long time away., sim: 0.9161829948425293
+no_use: speaker: p233, utterance: p233_130.wav, text: Next season for every manager is a long time away., sim: 0.9068954586982727
+use: speaker: p258, utterance: p258_365.wav, text: Mr Anderson was not acting in the course of his employment., sim: 0.9100633263587952
+no_use: speaker: p258, utterance: p258_365.wav, text: Mr Anderson was not acting in the course of his employment., sim: 0.895867109298706
+use: speaker: p258, utterance: p258_275.wav, text: Lottery money was intended to be used for good causes., sim: 0.9072430729866028
+no_use: speaker: p258, utterance: p258_275.wav, text: Lottery money was intended to be used for good causes., sim: 0.8875653743743896
+use: speaker: p258, utterance: p258_076.wav, text: I first met him last summer., sim: 0.8874253034591675
+no_use: speaker: p258, utterance: p258_076.wav, text: I first met him last summer., sim: 0.8847984671592712
+use: speaker: p258, utterance: p258_243.wav, text: It is linked to the row over proposed changes at Scottish Ballet., sim: 0.9079448580741882
+no_use: speaker: p258, utterance: p258_243.wav, text: It is linked to the row over proposed changes at Scottish Ballet., sim: 0.8589445948600769
+use: speaker: p258, utterance: p258_181.wav, text: We did everything by the book., sim: 0.8431918621063232
+no_use: speaker: p258, utterance: p258_181.wav, text: We did everything by the book., sim: 0.8388707041740417
+use: speaker: p293, utterance: p293_146.wav, text: Perhaps it should stay there., sim: 0.7820735573768616
+no_use: speaker: p293, utterance: p293_146.wav, text: Perhaps it should stay there., sim: 0.7714611291885376
+use: speaker: p293, utterance: p293_343.wav, text: It raises a serious question mark., sim: 0.8577937483787537
+no_use: speaker: p293, utterance: p293_343.wav, text: It raises a serious question mark., sim: 0.8269754648208618
+use: speaker: p293, utterance: p293_099.wav, text: They must put them back., sim: 0.7891536951065063
+no_use: speaker: p293, utterance: p293_099.wav, text: They must put them back., sim: 0.7978783249855042
+use: speaker: p293, utterance: p293_273.wav, text: It is typical of me., sim: 0.8287336230278015
+no_use: speaker: p293, utterance: p293_273.wav, text: It is typical of me., sim: 0.823691725730896
+use: speaker: p293, utterance: p293_049.wav, text: This is thought to mean sometime next week., sim: 0.7672216296195984
+no_use: speaker: p293, utterance: p293_049.wav, text: This is thought to mean sometime next week., sim: 0.7298802137374878
+use: speaker: p267, utterance: p267_183.wav, text: Aberdeen had little to offer., sim: 0.8211132287979126
+no_use: speaker: p267, utterance: p267_183.wav, text: Aberdeen had little to offer., sim: 0.8419674038887024
+use: speaker: p267, utterance: p267_176.wav, text: He played it like a veteran., sim: 0.8585819602012634
+no_use: speaker: p267, utterance: p267_176.wav, text: He played it like a veteran., sim: 0.8585216403007507
+use: speaker: p267, utterance: p267_126.wav, text: He felt that everything that was said about asylum seekers was negative., sim: 0.8859832882881165
+no_use: speaker: p267, utterance: p267_126.wav, text: He felt that everything that was said about asylum seekers was negative., sim: 0.8297781348228455
+use: speaker: p267, utterance: p267_404.wav, text: You thought it was a headache., sim: 0.8605542182922363
+no_use: speaker: p267, utterance: p267_404.wav, text: You thought it was a headache., sim: 0.8238832354545593
+use: speaker: p267, utterance: p267_207.wav, text: Today we must not repeat that mistake., sim: 0.8644090294837952
+no_use: speaker: p267, utterance: p267_207.wav, text: Today we must not repeat that mistake., sim: 0.8870781660079956
+use: speaker: p260, utterance: p260_092.wav, text: That deal will be decided under the existing rules., sim: 0.9020872712135315
+no_use: speaker: p260, utterance: p260_092.wav, text: That deal will be decided under the existing rules., sim: 0.8670549988746643
+use: speaker: p260, utterance: p260_005.wav, text: She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. , sim: 0.9387111067771912
+no_use: speaker: p260, utterance: p260_005.wav, text: She can scoop these things into three red bags, and we will go meet her Wednesday at the train station. , sim: 0.8644988536834717
+use: speaker: p260, utterance: p260_138.wav, text: It's hard to make these decisions at my age., sim: 0.8604384660720825
+no_use: speaker: p260, utterance: p260_138.wav, text: It's hard to make these decisions at my age., sim: 0.83237224817276
+use: speaker: p260, utterance: p260_182.wav, text: He was adamant that he was still ahead on everything that matters., sim: 0.892763078212738
+no_use: speaker: p260, utterance: p260_182.wav, text: He was adamant that he was still ahead on everything that matters., sim: 0.8886609673500061
+use: speaker: p260, utterance: p260_286.wav, text: This is a national crisis., sim: 0.8568965196609497
+no_use: speaker: p260, utterance: p260_286.wav, text: This is a national crisis., sim: 0.8279189467430115
+use: speaker: p294, utterance: p294_265.wav, text: This will have no effect on the championship., sim: 0.9220021963119507
+no_use: speaker: p294, utterance: p294_265.wav, text: This will have no effect on the championship., sim: 0.9078167080879211
+use: speaker: p294, utterance: p294_311.wav, text: They have nowhere else to go., sim: 0.8412966728210449
+no_use: speaker: p294, utterance: p294_311.wav, text: They have nowhere else to go., sim: 0.7664304971694946
+use: speaker: p294, utterance: p294_101.wav, text: It's annoying in a way., sim: 0.8159058094024658
+no_use: speaker: p294, utterance: p294_101.wav, text: It's annoying in a way., sim: 0.763404905796051
+use: speaker: p294, utterance: p294_403.wav, text: We will deal with the refugees., sim: 0.8896762132644653
+no_use: speaker: p294, utterance: p294_403.wav, text: We will deal with the refugees., sim: 0.8301779627799988
+use: speaker: p294, utterance: p294_301.wav, text: Their bid was a very good one., sim: 0.8840494751930237
+no_use: speaker: p294, utterance: p294_301.wav, text: Their bid was a very good one., sim: 0.8415302634239197
+use: speaker: p269, utterance: p269_047.wav, text: Who can say?, sim: 0.8133156299591064
+no_use: speaker: p269, utterance: p269_047.wav, text: Who can say?, sim: 0.8214983344078064
+use: speaker: p269, utterance: p269_349.wav, text: Her husband was very concerned that it might be fatal., sim: 0.9096791744232178
+no_use: speaker: p269, utterance: p269_349.wav, text: Her husband was very concerned that it might be fatal., sim: 0.909526526927948
+use: speaker: p269, utterance: p269_257.wav, text: Special measures were needed., sim: 0.8784254193305969
+no_use: speaker: p269, utterance: p269_257.wav, text: Special measures were needed., sim: 0.8605121374130249
+use: speaker: p269, utterance: p269_338.wav, text: I came into this world with nothing., sim: 0.9015805721282959
+no_use: speaker: p269, utterance: p269_338.wav, text: I came into this world with nothing., sim: 0.8870325684547424
+use: speaker: p269, utterance: p269_182.wav, text: I've been in two finals, and I've got a medal., sim: 0.8643031716346741
+no_use: speaker: p269, utterance: p269_182.wav, text: I've been in two finals, and I've got a medal., sim: 0.8823563456535339
+use: speaker: p256, utterance: p256_058.wav, text: It is unique., sim: 0.7967253923416138
+no_use: speaker: p256, utterance: p256_058.wav, text: It is unique., sim: 0.7053703665733337
+use: speaker: p256, utterance: p256_050.wav, text: It's a blessing., sim: 0.8457257151603699
+no_use: speaker: p256, utterance: p256_050.wav, text: It's a blessing., sim: 0.7764036655426025
+use: speaker: p256, utterance: p256_017.wav, text: Others have tried to explain the phenomenon physically. , sim: 0.9127680063247681
+no_use: speaker: p256, utterance: p256_017.wav, text: Others have tried to explain the phenomenon physically. , sim: 0.8889930248260498
+use: speaker: p256, utterance: p256_106.wav, text: Get to know him., sim: 0.8517177700996399
+no_use: speaker: p256, utterance: p256_106.wav, text: Get to know him., sim: 0.8410237431526184
+use: speaker: p256, utterance: p256_279.wav, text: It happens from time to time., sim: 0.8207076191902161
+no_use: speaker: p256, utterance: p256_279.wav, text: It happens from time to time., sim: 0.8115887641906738
+use: speaker: p251, utterance: p251_372.wav, text: He is very concerned about his fitness as a footballer., sim: 0.8524444699287415
+no_use: speaker: p251, utterance: p251_372.wav, text: He is very concerned about his fitness as a footballer., sim: 0.8185772895812988
+use: speaker: p251, utterance: p251_254.wav, text: The court was shown a video of the house on that day., sim: 0.8869528770446777
+no_use: speaker: p251, utterance: p251_254.wav, text: The court was shown a video of the house on that day., sim: 0.8469854593276978
+use: speaker: p251, utterance: p251_242.wav, text: They had no children., sim: 0.9386769533157349
+no_use: speaker: p251, utterance: p251_242.wav, text: They had no children., sim: 0.9124979376792908
+use: speaker: p251, utterance: p251_125.wav, text: Our thoughts are with the relatives of the family., sim: 0.7846733927726746
+no_use: speaker: p251, utterance: p251_125.wav, text: Our thoughts are with the relatives of the family., sim: 0.7723127007484436
+use: speaker: p251, utterance: p251_283.wav, text: That decision is for the British Parliament and people., sim: 0.8529876470565796
+no_use: speaker: p251, utterance: p251_283.wav, text: That decision is for the British Parliament and people., sim: 0.8352681994438171
+use: speaker: p323, utterance: p323_408.wav, text: It is too pretty, it is too small., sim: 0.8359962701797485
+no_use: speaker: p323, utterance: p323_408.wav, text: It is too pretty, it is too small., sim: 0.7973705530166626
+use: speaker: p323, utterance: p323_397.wav, text: Of course he does!, sim: 0.8332673907279968
+no_use: speaker: p323, utterance: p323_397.wav, text: Of course he does!, sim: 0.7732123732566833
+use: speaker: p323, utterance: p323_017.wav, text: Others have tried to explain the phenomenon physically., sim: 0.8353853821754456
+no_use: speaker: p323, utterance: p323_017.wav, text: Others have tried to explain the phenomenon physically., sim: 0.7808408141136169
+use: speaker: p323, utterance: p323_404.wav, text: Ms Jackson was not at the meeting., sim: 0.8526250720024109
+no_use: speaker: p323, utterance: p323_404.wav, text: Ms Jackson was not at the meeting., sim: 0.8176810145378113
+use: speaker: p323, utterance: p323_248.wav, text: These are exciting times for young Scottish players., sim: 0.9101771712303162
+no_use: speaker: p323, utterance: p323_248.wav, text: These are exciting times for young Scottish players., sim: 0.8916109800338745
+use: speaker: p312, utterance: p312_175.wav, text: They want this research to continue., sim: 0.8203079700469971
+no_use: speaker: p312, utterance: p312_175.wav, text: They want this research to continue., sim: 0.802664041519165
+use: speaker: p312, utterance: p312_298.wav, text: Bill is a mentor., sim: 0.8510289192199707
+no_use: speaker: p312, utterance: p312_298.wav, text: Bill is a mentor., sim: 0.8678183555603027
+use: speaker: p312, utterance: p312_037.wav, text: That decision is now being appealed., sim: 0.8432619571685791
+no_use: speaker: p312, utterance: p312_037.wav, text: That decision is now being appealed., sim: 0.8481616973876953
+use: speaker: p312, utterance: p312_408.wav, text: There was someone on the floor., sim: 0.8718334436416626
+no_use: speaker: p312, utterance: p312_408.wav, text: There was someone on the floor., sim: 0.8694854378700256
+use: speaker: p312, utterance: p312_238.wav, text: This is a major step forward for carers., sim: 0.8677545785903931
+no_use: speaker: p312, utterance: p312_238.wav, text: This is a major step forward for carers., sim: 0.8466923832893372
+use: speaker: p341, utterance: p341_100.wav, text: I don't think it could be clearer., sim: 0.8586426973342896
+no_use: speaker: p341, utterance: p341_100.wav, text: I don't think it could be clearer., sim: 0.8647525310516357
+use: speaker: p341, utterance: p341_201.wav, text: It's fun and challenging, but it is not easy., sim: 0.89017653465271
+no_use: speaker: p341, utterance: p341_201.wav, text: It's fun and challenging, but it is not easy., sim: 0.8816712498664856
+use: speaker: p341, utterance: p341_195.wav, text: Felt good about it., sim: 0.7173455953598022
+no_use: speaker: p341, utterance: p341_195.wav, text: Felt good about it., sim: 0.7127479314804077
+use: speaker: p341, utterance: p341_081.wav, text: Robert is a special talent., sim: 0.8337731957435608
+no_use: speaker: p341, utterance: p341_081.wav, text: Robert is a special talent., sim: 0.8719266653060913
+use: speaker: p341, utterance: p341_396.wav, text: But it is all by design., sim: 0.81935054063797
+no_use: speaker: p341, utterance: p341_396.wav, text: But it is all by design., sim: 0.8274813890457153
+use: speaker: p314, utterance: p314_105.wav, text: That would be even more disastrous., sim: 0.8769364953041077
+no_use: speaker: p314, utterance: p314_105.wav, text: That would be even more disastrous., sim: 0.8547955751419067
+use: speaker: p314, utterance: p314_095.wav, text: The money is not really our concern., sim: 0.9152282476425171
+no_use: speaker: p314, utterance: p314_095.wav, text: The money is not really our concern., sim: 0.9089168906211853
+use: speaker: p314, utterance: p314_415.wav, text: Jackson may well be right., sim: 0.8664226531982422
+no_use: speaker: p314, utterance: p314_415.wav, text: Jackson may well be right., sim: 0.8231337070465088
+use: speaker: p314, utterance: p314_187.wav, text: I certainly do not agree with that., sim: 0.8589881062507629
+no_use: speaker: p314, utterance: p314_187.wav, text: I certainly do not agree with that., sim: 0.8648586869239807
+use: speaker: p314, utterance: p314_065.wav, text: Except, this time, it seems, he really, really means it., sim: 0.8844985961914062
+no_use: speaker: p314, utterance: p314_065.wav, text: Except, this time, it seems, he really, really means it., sim: 0.8298624753952026
+use: speaker: p313, utterance: p313_100.wav, text: They've just got to believe in themselves., sim: 0.862369954586029
+no_use: speaker: p313, utterance: p313_100.wav, text: They've just got to believe in themselves., sim: 0.8862661123275757
+use: speaker: p313, utterance: p313_137.wav, text: This performance has given my confidence a boost., sim: 0.8697015643119812
+no_use: speaker: p313, utterance: p313_137.wav, text: This performance has given my confidence a boost., sim: 0.8126294612884521
+use: speaker: p313, utterance: p313_226.wav, text: From our point of view, it's the right time., sim: 0.8331038355827332
+no_use: speaker: p313, utterance: p313_226.wav, text: From our point of view, it's the right time., sim: 0.7942090630531311
+use: speaker: p313, utterance: p313_211.wav, text: I suspect that it will., sim: 0.8212435841560364
+no_use: speaker: p313, utterance: p313_211.wav, text: I suspect that it will., sim: 0.7765053510665894
+use: speaker: p313, utterance: p313_240.wav, text: Life was like a timetable., sim: 0.891350507736206
+no_use: speaker: p313, utterance: p313_240.wav, text: Life was like a timetable., sim: 0.8863328695297241
+use: speaker: p376, utterance: p376_004.wav, text: "We also need a small plastic snake and a big toy frog for the kids.  ", sim: 0.8393526077270508
+no_use: speaker: p376, utterance: p376_004.wav, text: "We also need a small plastic snake and a big toy frog for the kids.  ", sim: 0.7342795729637146
+use: speaker: p376, utterance: p376_111.wav, text: "Who would be a referee?", sim: 0.8424109220504761
+no_use: speaker: p376, utterance: p376_111.wav, text: "Who would be a referee?", sim: 0.8373234868049622
+use: speaker: p376, utterance: p376_216.wav, text: "We could be here for a number of weeks.", sim: 0.7733787298202515
+no_use: speaker: p376, utterance: p376_216.wav, text: "We could be here for a number of weeks.", sim: 0.8030980229377747
+use: speaker: p376, utterance: p376_134.wav, text: "It was typical.", sim: 0.7616488933563232
+no_use: speaker: p376, utterance: p376_134.wav, text: "It was typical.", sim: 0.7481233477592468
+use: speaker: p376, utterance: p376_128.wav, text: "It's the big omission.", sim: 0.8655521273612976
+no_use: speaker: p376, utterance: p376_128.wav, text: "It's the big omission.", sim: 0.8792715668678284
+use: speaker: p347, utterance: p347_037.wav, text: And look at the leading conductors, he says., sim: 0.9070311784744263
+no_use: speaker: p347, utterance: p347_037.wav, text: And look at the leading conductors, he says., sim: 0.890609622001648
+use: speaker: p347, utterance: p347_217.wav, text: A Treasury spokesman derided the Tory charge., sim: 0.9115874171257019
+no_use: speaker: p347, utterance: p347_217.wav, text: A Treasury spokesman derided the Tory charge., sim: 0.9104700088500977
+use: speaker: p347, utterance: p347_090.wav, text: It is a hangover effect., sim: 0.9362900853157043
+no_use: speaker: p347, utterance: p347_090.wav, text: It is a hangover effect., sim: 0.9018771052360535
+use: speaker: p347, utterance: p347_178.wav, text: It's a flourishing and beautiful city., sim: 0.9228545427322388
+no_use: speaker: p347, utterance: p347_178.wav, text: It's a flourishing and beautiful city., sim: 0.9148169755935669
+use: speaker: p347, utterance: p347_289.wav, text: My wife is totally behind me on this., sim: 0.9255375862121582
+no_use: speaker: p347, utterance: p347_289.wav, text: My wife is totally behind me on this., sim: 0.9099090695381165
+use: speaker: p340, utterance: p340_414.wav, text: It means a huge amount., sim: 0.834418535232544
+no_use: speaker: p340, utterance: p340_414.wav, text: It means a huge amount., sim: 0.8220759034156799
+use: speaker: p340, utterance: p340_344.wav, text: They said they would., sim: 0.9080730676651001
+no_use: speaker: p340, utterance: p340_344.wav, text: They said they would., sim: 0.9149019122123718
+use: speaker: p340, utterance: p340_235.wav, text: It's hard to say., sim: 0.8796940445899963
+no_use: speaker: p340, utterance: p340_235.wav, text: It's hard to say., sim: 0.8832399249076843
+use: speaker: p340, utterance: p340_154.wav, text: I've never regretted my decision., sim: 0.7055694460868835
+no_use: speaker: p340, utterance: p340_154.wav, text: I've never regretted my decision., sim: 0.7409785985946655
+use: speaker: p340, utterance: p340_397.wav, text: And rugby fans can help., sim: 0.8054108619689941
+no_use: speaker: p340, utterance: p340_397.wav, text: And rugby fans can help., sim: 0.7964053153991699

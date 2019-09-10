@@ -88,7 +88,7 @@ class CBHG:
             return tf.concat(outputs, axis=2)  # Concat forward and backward outputs
 
 
-class ZoneoutLSTMCell(tf.nn.rnn_cell.RNNCell):
+class ZoneoutLSTMCell(tf.compat.v1.nn.rnn_cell.RNNCell):
     """Wrapper for tf LSTM to create Zoneout LSTM Cell
 
     inspired by:
@@ -99,10 +99,11 @@ class ZoneoutLSTMCell(tf.nn.rnn_cell.RNNCell):
     Many thanks to @Ondal90 for pointing this out. You sir are a hero!
     """
 
-    def __init__(self, num_units, is_training, zoneout_factor_cell=0., zoneout_factor_output=0.,
-                 state_is_tuple=True, name=None):
+    def __init__(self, num_units, is_training, zoneout_factor_cell=0., zoneout_factor_output=0., state_is_tuple=True,
+                 name=None, **kwargs):
         """Initializer with possibility to set different zoneout values for cell/hidden states.
         """
+        super().__init__(name, **kwargs)
         zm = min(zoneout_factor_output, zoneout_factor_cell)
         zs = max(zoneout_factor_output, zoneout_factor_cell)
 
